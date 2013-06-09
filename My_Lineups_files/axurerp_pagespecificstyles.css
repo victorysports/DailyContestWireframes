@@ -1,0 +1,6329 @@
+﻿body {
+    margin: 0px;
+    background-color: #CBCBCB;
+    text-align: center;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+    position: relative;
+    left: -0px;
+    width: 964px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../My_Lineups_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:0px;
+    top:600px;
+    width:960px;
+    height:220px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:966px;
+    height:226px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:102px;
+    width:956px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u4_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:109px;
+    height:20px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:115px;
+    height:26px;
+}
+
+.u5 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:104px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u7_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u7_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:40px;
+    height:20px;
+}
+
+#u7_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:26px;
+}
+
+.u8 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:35px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u10_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u10_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:38px;
+    height:20px;
+}
+
+#u10_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:44px;
+    height:26px;
+}
+
+.u11 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:33px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u13_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u13_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:72px;
+    height:20px;
+}
+
+#u13_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:26px;
+}
+
+.u14 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:67px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u16_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u16_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:55px;
+    height:20px;
+}
+
+#u16_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:61px;
+    height:26px;
+}
+
+.u17 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:50px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u20_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u20_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:50px;
+    height:20px;
+}
+
+#u20_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:56px;
+    height:26px;
+}
+
+.u21 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:45px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u23_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u23_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:74px;
+    height:20px;
+}
+
+#u23_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:80px;
+    height:26px;
+}
+
+.u24 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:69px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u26_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u26_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:60px;
+    height:20px;
+}
+
+#u26_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:66px;
+    height:26px;
+}
+
+.u27 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:55px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u29_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u29_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:27px;
+    height:20px;
+}
+
+#u29_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:33px;
+    height:26px;
+}
+
+.u30 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u33_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u33_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:78px;
+    height:20px;
+}
+
+#u33_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:84px;
+    height:26px;
+}
+
+.u34 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:73px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u36_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u36_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:50px;
+    height:20px;
+}
+
+#u36_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:56px;
+    height:26px;
+}
+
+.u37 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:45px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u39_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u39_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:84px;
+    height:20px;
+}
+
+#u39_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:90px;
+    height:26px;
+}
+
+.u40 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:79px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u42_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u42_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:69px;
+    height:20px;
+}
+
+#u42_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:75px;
+    height:26px;
+}
+
+.u43 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:64px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u46_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u46_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:54px;
+    height:20px;
+}
+
+#u46_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:60px;
+    height:26px;
+}
+
+.u47 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:49px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u49_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u49_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:158px;
+    height:20px;
+}
+
+#u49_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:164px;
+    height:26px;
+}
+
+.u50 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:153px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u52_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u52_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:149px;
+    height:20px;
+}
+
+#u52_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:155px;
+    height:26px;
+}
+
+.u53 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:144px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u56_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u56_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:58px;
+    height:20px;
+}
+
+#u56_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:64px;
+    height:26px;
+}
+
+.u57 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:53px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u59_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u59_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:23px;
+    height:20px;
+}
+
+#u59_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:29px;
+    height:26px;
+}
+
+.u60 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:18px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u62_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u62_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:26px;
+    height:20px;
+}
+
+#u62_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:32px;
+    height:26px;
+}
+
+.u63 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:21px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u65_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u65_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:24px;
+    height:20px;
+}
+
+#u65_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:30px;
+    height:26px;
+}
+
+.u66 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:19px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u68_menu {
+    background-image: url('../My_Lineups_files/u68_menu.png');
+}
+
+.u68_menu {
+    position:absolute;
+    left:-3px;
+    top:67px;
+    width:615px;
+    height:35px;
+}
+
+#u68_menu {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:612px;
+    height:32px;
+}
+
+#u69 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:605px;
+    height:25px
+}
+
+.u70_normal {
+    background-image: url('../My_Lineups_files/u70_normal.png');
+}
+
+.u70_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u70_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u71 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u72_normal {
+    background-image: url('../My_Lineups_files/u70_normal.png');
+}
+
+.u72_container {
+    position:absolute;
+    left:100px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u72_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u73 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u74_normal {
+    background-image: url('../My_Lineups_files/u70_normal.png');
+}
+
+.u74_container {
+    position:absolute;
+    left:200px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u74_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u75 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u76_normal {
+    background-image: url('../My_Lineups_files/u70_normal.png');
+}
+
+.u76_container {
+    position:absolute;
+    left:300px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u76_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u77 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u78_normal {
+    background-image: url('../My_Lineups_files/u70_normal.png');
+}
+
+.u78_container {
+    position:absolute;
+    left:400px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u78_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u79 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u80_normal {
+    background-image: url('../My_Lineups_files/u70_normal.png');
+}
+
+.u80_container {
+    position:absolute;
+    left:500px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u80_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u81 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u82_menu {
+    background-image: url('../My_Lineups_files/u82_menu.png');
+}
+
+.u82_menu {
+    position:absolute;
+    left:500px;
+    top:20px;
+    width:115px;
+    height:95px;
+}
+
+#u82_menu {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:112px;
+    height:92px;
+}
+
+#u83 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:105px;
+    height:85px
+}
+
+.u84_normal {
+    background-image: url('../My_Lineups_files/u70_normal.png');
+}
+
+.u84_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u84_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u85 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u86_normal {
+    background-image: url('../My_Lineups_files/u70_normal.png');
+}
+
+.u86_container {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:100px;
+    height:20px;
+}
+
+#u86_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u87 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u88_normal {
+    background-image: url('../My_Lineups_files/u70_normal.png');
+}
+
+.u88_container {
+    position:absolute;
+    left:0px;
+    top:40px;
+    width:100px;
+    height:20px;
+}
+
+#u88_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u89 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u90_normal {
+    background-image: url('../My_Lineups_files/u70_normal.png');
+}
+
+.u90_container {
+    position:absolute;
+    left:0px;
+    top:60px;
+    width:100px;
+    height:20px;
+}
+
+#u90_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u91 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u92_menu {
+    background-image: url('../My_Lineups_files/u92_menu.png');
+}
+
+.u92_menu {
+    position:absolute;
+    left:100px;
+    top:20px;
+    width:115px;
+    height:75px;
+}
+
+#u92_menu {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:112px;
+    height:72px;
+}
+
+#u93 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:105px;
+    height:65px
+}
+
+.u94_normal {
+    background-image: url('../My_Lineups_files/u70_normal.png');
+}
+
+.u94_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u94_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u95 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u96_normal {
+    background-image: url('../My_Lineups_files/u70_normal.png');
+}
+
+.u96_container {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:100px;
+    height:20px;
+}
+
+#u96_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u97 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u98_normal {
+    background-image: url('../My_Lineups_files/u70_normal.png');
+}
+
+.u98_container {
+    position:absolute;
+    left:0px;
+    top:40px;
+    width:100px;
+    height:20px;
+}
+
+#u98_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u99 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u100_menu {
+    background-image: url('../My_Lineups_files/u100_menu.png');
+}
+
+.u100_menu {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:115px;
+    height:95px;
+}
+
+#u100_menu {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:112px;
+    height:92px;
+}
+
+#u101 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:105px;
+    height:85px
+}
+
+.u102_normal {
+    background-image: url('../My_Lineups_files/u70_normal.png');
+}
+
+.u102_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u102_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u103 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u104_normal {
+    background-image: url('../My_Lineups_files/u70_normal.png');
+}
+
+.u104_container {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:100px;
+    height:20px;
+}
+
+#u104_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u105 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u106_normal {
+    background-image: url('../My_Lineups_files/u70_normal.png');
+}
+
+.u106_container {
+    position:absolute;
+    left:0px;
+    top:40px;
+    width:100px;
+    height:20px;
+}
+
+#u106_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u107 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u108_normal {
+    background-image: url('../My_Lineups_files/u70_normal.png');
+}
+
+.u108_container {
+    position:absolute;
+    left:0px;
+    top:60px;
+    width:100px;
+    height:20px;
+}
+
+#u108_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u109 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u110_menu {
+    background-image: url('../My_Lineups_files/u110_menu.png');
+}
+
+.u110_menu {
+    position:absolute;
+    left:200px;
+    top:20px;
+    width:115px;
+    height:75px;
+}
+
+#u110_menu {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:112px;
+    height:72px;
+}
+
+#u111 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:105px;
+    height:65px
+}
+
+.u112_normal {
+    background-image: url('../My_Lineups_files/u70_normal.png');
+}
+
+.u112_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u112_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u113 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u114_normal {
+    background-image: url('../My_Lineups_files/u70_normal.png');
+}
+
+.u114_container {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:100px;
+    height:20px;
+}
+
+#u114_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u115 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u116_normal {
+    background-image: url('../My_Lineups_files/u70_normal.png');
+}
+
+.u116_container {
+    position:absolute;
+    left:0px;
+    top:40px;
+    width:100px;
+    height:20px;
+}
+
+#u116_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u117 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u118 {
+    position:absolute;
+    left:10px;
+    top:19px;
+    width:280px;
+    height:33px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u119_normal {
+    background-image: url('../My_Lineups_files/u119_normal.png');
+}
+
+.u119_container {
+    position:absolute;
+    left:873px;
+    top:10px;
+    width:50px;
+    height:50px;
+}
+
+#u119_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:56px;
+    height:56px;
+}
+
+.u120 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:46px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u121_menu {
+    background-image: url('../My_Lineups_files/u121_menu.png');
+}
+
+.u121_menu {
+    position:absolute;
+    left:741px;
+    top:19px;
+    width:115px;
+    height:35px;
+}
+
+#u121_menu {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:112px;
+    height:32px;
+}
+
+#u122 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:105px;
+    height:25px
+}
+
+.u123_normal {
+    background-image: url('../My_Lineups_files/u70_normal.png');
+}
+
+.u123_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u123_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u124 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u125_menu {
+    background-image: url('../My_Lineups_files/u125_menu.png');
+}
+
+.u125_menu {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:134px;
+    height:75px;
+}
+
+#u125_menu {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:72px;
+}
+
+#u126 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:124px;
+    height:65px
+}
+
+.u127_normal {
+    background-image: url('../My_Lineups_files/u127_normal.png');
+}
+
+.u127_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:119px;
+    height:20px;
+}
+
+#u127_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:125px;
+    height:26px;
+}
+
+.u128 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:115px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u129_normal {
+    background-image: url('../My_Lineups_files/u127_normal.png');
+}
+
+.u129_container {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:119px;
+    height:20px;
+}
+
+#u129_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:125px;
+    height:26px;
+}
+
+.u130 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:115px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u131_normal {
+    background-image: url('../My_Lineups_files/u127_normal.png');
+}
+
+.u131_container {
+    position:absolute;
+    left:0px;
+    top:40px;
+    width:119px;
+    height:20px;
+}
+
+#u131_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:125px;
+    height:26px;
+}
+
+.u132 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:115px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u133_normal {
+    background-image: url('../My_Lineups_files/u133_normal.png');
+}
+
+.u133_container {
+    position:absolute;
+    left:829px;
+    top:32px;
+    width:10px;
+    height:5px;
+}
+
+#u133_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:16px;
+    height:11px;
+}
+
+.u134 {
+    position:absolute;
+    left:2px;
+    top:-6px;
+    width:6px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u135_normal {
+    background-image: url('../My_Lineups_files/u133_normal.png');
+}
+
+.u135_container {
+    position:absolute;
+    left:933px;
+    top:32px;
+    width:10px;
+    height:5px;
+}
+
+#u135_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:16px;
+    height:11px;
+}
+
+.u136 {
+    position:absolute;
+    left:2px;
+    top:-6px;
+    width:6px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u137_menu {
+    background-image: url('../My_Lineups_files/u137_menu.png');
+}
+
+.u137_menu {
+    position:absolute;
+    left:641px;
+    top:67px;
+    width:315px;
+    height:35px;
+}
+
+#u137_menu {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:312px;
+    height:32px;
+}
+
+#u138 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:305px;
+    height:25px
+}
+
+.u139_normal {
+    background-image: url('../My_Lineups_files/u70_normal.png');
+}
+
+.u139_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u139_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u140 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u141_normal {
+    background-image: url('../My_Lineups_files/u70_normal.png');
+}
+
+.u141_container {
+    position:absolute;
+    left:100px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u141_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u142 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u143_normal {
+    background-image: url('../My_Lineups_files/u70_normal.png');
+}
+
+.u143_container {
+    position:absolute;
+    left:200px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u143_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u144 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u145_menu {
+    background-image: url('../My_Lineups_files/u145_menu.png');
+}
+
+.u145_menu {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:115px;
+    height:75px;
+}
+
+#u145_menu {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:112px;
+    height:72px;
+}
+
+#u146 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:105px;
+    height:65px
+}
+
+.u147_normal {
+    background-image: url('../My_Lineups_files/u70_normal.png');
+}
+
+.u147_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u147_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u148 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u149_normal {
+    background-image: url('../My_Lineups_files/u70_normal.png');
+}
+
+.u149_container {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:100px;
+    height:20px;
+}
+
+#u149_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u150 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u151_normal {
+    background-image: url('../My_Lineups_files/u70_normal.png');
+}
+
+.u151_container {
+    position:absolute;
+    left:0px;
+    top:40px;
+    width:100px;
+    height:20px;
+}
+
+#u151_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u152 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u153 {
+    position:absolute;
+    left:764px;
+    top:61px;
+    width:201px;
+    height:89px;
+    overflow:hidden;
+}
+
+#pd1u153 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:201px;
+    height:89px;
+    
+}
+
+#pd0u153 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:201px;
+    height:89px;
+    
+}
+
+.u154_menu {
+    background-image: url('../My_Lineups_files/u154_menu.png');
+}
+
+.u154_menu {
+    position:absolute;
+    left:1px;
+    top:-3px;
+    width:165px;
+    height:95px;
+}
+
+#u154_menu {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:162px;
+    height:92px;
+}
+
+#u155 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:155px;
+    height:85px
+}
+
+.u156_normal {
+    background-image: url('../My_Lineups_files/u156_normal.png');
+}
+
+.u156_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:150px;
+    height:20px;
+}
+
+#u156_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:26px;
+}
+
+.u157 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u158_normal {
+    background-image: url('../My_Lineups_files/u156_normal.png');
+}
+
+.u158_container {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:150px;
+    height:20px;
+}
+
+#u158_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:26px;
+}
+
+.u159 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u160_normal {
+    background-image: url('../My_Lineups_files/u156_normal.png');
+}
+
+.u160_container {
+    position:absolute;
+    left:0px;
+    top:40px;
+    width:150px;
+    height:20px;
+}
+
+#u160_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:26px;
+}
+
+.u161 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u162_normal {
+    background-image: url('../My_Lineups_files/u156_normal.png');
+}
+
+.u162_container {
+    position:absolute;
+    left:0px;
+    top:60px;
+    width:150px;
+    height:20px;
+}
+
+#u162_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:26px;
+}
+
+.u163 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u164_normal {
+    background-image: url('../My_Lineups_files/u164_normal.png');
+}
+
+.u164_container {
+    position:absolute;
+    left:716px;
+    top:28px;
+    width:14px;
+    height:14px;
+}
+
+#u164_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:14px;
+    height:14px;
+}
+
+.u165 {
+    position:absolute;
+    left:2px;
+    top:-1px;
+    width:10px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u167 {
+    position:absolute;
+    left:10px;
+    top:119px;
+    width:240px;
+    height:33px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u168_image_sketch {
+    background-image: url('../My_Lineups_files/u168_image_sketch.png');
+    position:absolute;
+    left:847px;
+    top:120px;
+    width:106px;
+    height:31px;
+}
+
+.u168 {
+    position:absolute;
+    left:850px;
+    top:123px;
+    width:100px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u168_text_sketch {
+    color: #000000;
+    font-family: 'Myriad Web Pro';
+}
+
+.u169_image_sketch {
+    background-image: url('../My_Lineups_files/u169_image_sketch.png');
+    position:absolute;
+    left:727px;
+    top:120px;
+    width:106px;
+    height:31px;
+}
+
+.u169 {
+    position:absolute;
+    left:730px;
+    top:123px;
+    width:100px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u169_text_sketch {
+    color: #000000;
+    font-family: 'Myriad Web Pro';
+}
+
+.u170_image_sketch {
+    background-image: url('../My_Lineups_files/u170_image_sketch.png');
+    position:absolute;
+    left:847px;
+    top:166px;
+    width:106px;
+    height:31px;
+}
+
+.u170 {
+    position:absolute;
+    left:850px;
+    top:169px;
+    width:100px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u170_text_sketch {
+    color: #000000;
+    font-family: 'Myriad Web Pro';
+}
+
+#u171 {
+    position:absolute;
+    left:10px;
+    top:244px;
+    width:305px;
+    height:295px
+}
+
+.u172_normal {
+    background-image: url('../My_Lineups_files/u172_normal.png');
+}
+
+.u172_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u172_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u173 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u174_normal {
+    background-image: url('../My_Lineups_files/u174_normal.png');
+}
+
+.u174_container {
+    position:absolute;
+    left:100px;
+    top:0px;
+    width:125px;
+    height:20px;
+}
+
+#u174_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:26px;
+}
+
+.u175 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:121px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u176_normal {
+    background-image: url('../My_Lineups_files/u176_normal.png');
+}
+
+.u176_container {
+    position:absolute;
+    left:225px;
+    top:0px;
+    width:75px;
+    height:20px;
+}
+
+#u176_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:26px;
+}
+
+.u177 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u178_normal {
+    background-image: url('../My_Lineups_files/u178_normal.png');
+}
+
+.u178_container {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:100px;
+    height:30px;
+}
+
+#u178_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:36px;
+}
+
+.u179 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u180_normal {
+    background-image: url('../My_Lineups_files/u180_normal.png');
+}
+
+.u180_container {
+    position:absolute;
+    left:100px;
+    top:20px;
+    width:125px;
+    height:30px;
+}
+
+#u180_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:36px;
+}
+
+.u181 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:121px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u182_normal {
+    background-image: url('../My_Lineups_files/u182_normal.png');
+}
+
+.u182_container {
+    position:absolute;
+    left:225px;
+    top:20px;
+    width:75px;
+    height:30px;
+}
+
+#u182_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:36px;
+}
+
+.u183 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u184_normal {
+    background-image: url('../My_Lineups_files/u178_normal.png');
+}
+
+.u184_container {
+    position:absolute;
+    left:0px;
+    top:50px;
+    width:100px;
+    height:30px;
+}
+
+#u184_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:36px;
+}
+
+.u185 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u186_normal {
+    background-image: url('../My_Lineups_files/u180_normal.png');
+}
+
+.u186_container {
+    position:absolute;
+    left:100px;
+    top:50px;
+    width:125px;
+    height:30px;
+}
+
+#u186_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:36px;
+}
+
+.u187 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:121px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u188_normal {
+    background-image: url('../My_Lineups_files/u182_normal.png');
+}
+
+.u188_container {
+    position:absolute;
+    left:225px;
+    top:50px;
+    width:75px;
+    height:30px;
+}
+
+#u188_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:36px;
+}
+
+.u189 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u190_normal {
+    background-image: url('../My_Lineups_files/u178_normal.png');
+}
+
+.u190_container {
+    position:absolute;
+    left:0px;
+    top:80px;
+    width:100px;
+    height:30px;
+}
+
+#u190_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:36px;
+}
+
+.u191 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u192_normal {
+    background-image: url('../My_Lineups_files/u180_normal.png');
+}
+
+.u192_container {
+    position:absolute;
+    left:100px;
+    top:80px;
+    width:125px;
+    height:30px;
+}
+
+#u192_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:36px;
+}
+
+.u193 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:121px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u194_normal {
+    background-image: url('../My_Lineups_files/u182_normal.png');
+}
+
+.u194_container {
+    position:absolute;
+    left:225px;
+    top:80px;
+    width:75px;
+    height:30px;
+}
+
+#u194_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:36px;
+}
+
+.u195 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u196_normal {
+    background-image: url('../My_Lineups_files/u178_normal.png');
+}
+
+.u196_container {
+    position:absolute;
+    left:0px;
+    top:110px;
+    width:100px;
+    height:30px;
+}
+
+#u196_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:36px;
+}
+
+.u197 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u198_normal {
+    background-image: url('../My_Lineups_files/u180_normal.png');
+}
+
+.u198_container {
+    position:absolute;
+    left:100px;
+    top:110px;
+    width:125px;
+    height:30px;
+}
+
+#u198_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:36px;
+}
+
+.u199 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:121px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u200_normal {
+    background-image: url('../My_Lineups_files/u182_normal.png');
+}
+
+.u200_container {
+    position:absolute;
+    left:225px;
+    top:110px;
+    width:75px;
+    height:30px;
+}
+
+#u200_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:36px;
+}
+
+.u201 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u202_normal {
+    background-image: url('../My_Lineups_files/u178_normal.png');
+}
+
+.u202_container {
+    position:absolute;
+    left:0px;
+    top:140px;
+    width:100px;
+    height:30px;
+}
+
+#u202_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:36px;
+}
+
+.u203 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u204_normal {
+    background-image: url('../My_Lineups_files/u180_normal.png');
+}
+
+.u204_container {
+    position:absolute;
+    left:100px;
+    top:140px;
+    width:125px;
+    height:30px;
+}
+
+#u204_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:36px;
+}
+
+.u205 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:121px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u206_normal {
+    background-image: url('../My_Lineups_files/u182_normal.png');
+}
+
+.u206_container {
+    position:absolute;
+    left:225px;
+    top:140px;
+    width:75px;
+    height:30px;
+}
+
+#u206_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:36px;
+}
+
+.u207 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u208_normal {
+    background-image: url('../My_Lineups_files/u178_normal.png');
+}
+
+.u208_container {
+    position:absolute;
+    left:0px;
+    top:170px;
+    width:100px;
+    height:30px;
+}
+
+#u208_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:36px;
+}
+
+.u209 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u210_normal {
+    background-image: url('../My_Lineups_files/u180_normal.png');
+}
+
+.u210_container {
+    position:absolute;
+    left:100px;
+    top:170px;
+    width:125px;
+    height:30px;
+}
+
+#u210_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:36px;
+}
+
+.u211 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:121px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u212_normal {
+    background-image: url('../My_Lineups_files/u182_normal.png');
+}
+
+.u212_container {
+    position:absolute;
+    left:225px;
+    top:170px;
+    width:75px;
+    height:30px;
+}
+
+#u212_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:36px;
+}
+
+.u213 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u214_normal {
+    background-image: url('../My_Lineups_files/u178_normal.png');
+}
+
+.u214_container {
+    position:absolute;
+    left:0px;
+    top:200px;
+    width:100px;
+    height:30px;
+}
+
+#u214_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:36px;
+}
+
+.u215 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u216_normal {
+    background-image: url('../My_Lineups_files/u180_normal.png');
+}
+
+.u216_container {
+    position:absolute;
+    left:100px;
+    top:200px;
+    width:125px;
+    height:30px;
+}
+
+#u216_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:36px;
+}
+
+.u217 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:121px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u218_normal {
+    background-image: url('../My_Lineups_files/u182_normal.png');
+}
+
+.u218_container {
+    position:absolute;
+    left:225px;
+    top:200px;
+    width:75px;
+    height:30px;
+}
+
+#u218_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:36px;
+}
+
+.u219 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u220_normal {
+    background-image: url('../My_Lineups_files/u178_normal.png');
+}
+
+.u220_container {
+    position:absolute;
+    left:0px;
+    top:230px;
+    width:100px;
+    height:30px;
+}
+
+#u220_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:36px;
+}
+
+.u221 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u222_normal {
+    background-image: url('../My_Lineups_files/u180_normal.png');
+}
+
+.u222_container {
+    position:absolute;
+    left:100px;
+    top:230px;
+    width:125px;
+    height:30px;
+}
+
+#u222_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:36px;
+}
+
+.u223 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:121px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u224_normal {
+    background-image: url('../My_Lineups_files/u182_normal.png');
+}
+
+.u224_container {
+    position:absolute;
+    left:225px;
+    top:230px;
+    width:75px;
+    height:30px;
+}
+
+#u224_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:36px;
+}
+
+.u225 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u226_normal {
+    background-image: url('../My_Lineups_files/u178_normal.png');
+}
+
+.u226_container {
+    position:absolute;
+    left:0px;
+    top:260px;
+    width:100px;
+    height:30px;
+}
+
+#u226_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:36px;
+}
+
+.u227 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u228_normal {
+    background-image: url('../My_Lineups_files/u180_normal.png');
+}
+
+.u228_container {
+    position:absolute;
+    left:100px;
+    top:260px;
+    width:125px;
+    height:30px;
+}
+
+#u228_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:36px;
+}
+
+.u229 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:121px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u230_normal {
+    background-image: url('../My_Lineups_files/u182_normal.png');
+}
+
+.u230_container {
+    position:absolute;
+    left:225px;
+    top:260px;
+    width:75px;
+    height:30px;
+}
+
+#u230_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:36px;
+}
+
+.u231 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u232_normal {
+    background-image: url('../My_Lineups_files/u232_normal.png');
+}
+
+.u232_container {
+    position:absolute;
+    left:10px;
+    top:534px;
+    width:300px;
+    height:35px;
+}
+
+#u232_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:306px;
+    height:41px;
+}
+
+.u233 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:296px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u234_image_sketch {
+    background-image: url('../My_Lineups_files/u234_image_sketch.png');
+    position:absolute;
+    left:209px;
+    top:536px;
+    width:99px;
+    height:31px;
+}
+
+.u234 {
+    position:absolute;
+    left:212px;
+    top:539px;
+    width:93px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u234_text_sketch {
+    color: #000000;
+    font-family: 'Myriad Web Pro';
+}
+
+.u235_image_sketch {
+    background-image: url('../My_Lineups_files/u235_image_sketch.png');
+    position:absolute;
+    left:110px;
+    top:536px;
+    width:99px;
+    height:31px;
+}
+
+.u235 {
+    position:absolute;
+    left:113px;
+    top:539px;
+    width:93px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u235_text_sketch {
+    color: #000000;
+    font-family: 'Myriad Web Pro';
+}
+
+.u236_image_sketch {
+    background-image: url('../My_Lineups_files/u236_image_sketch.png');
+    position:absolute;
+    left:9px;
+    top:536px;
+    width:99px;
+    height:31px;
+}
+
+.u236 {
+    position:absolute;
+    left:12px;
+    top:539px;
+    width:93px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u236_text_sketch {
+    color: #000000;
+    font-family: 'Myriad Web Pro';
+}
+
+.u237 {
+    position:absolute;
+    left:10px;
+    top:169px;
+    width:150px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u238_normal {
+    background-image: url('../My_Lineups_files/u238_normal.png');
+}
+
+.u238_container {
+    position:absolute;
+    left:10px;
+    top:209px;
+    width:300px;
+    height:35px;
+}
+
+#u238_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:306px;
+    height:41px;
+}
+
+.u239 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:296px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u240 {
+    position:absolute;
+    left:47px;
+    top:211px;
+    width:139px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u241_normal {
+    background-image: url('../My_Lineups_files/u241_normal.png');
+}
+
+.u241_container {
+    position:absolute;
+    left:13px;
+    top:211px;
+    width:27px;
+    height:30px;
+}
+
+#u241_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:33px;
+    height:36px;
+}
+
+.u242 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:23px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u243 {
+    position:absolute;
+    left:171px;
+    top:211px;
+    width:139px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u244 {
+    position:absolute;
+    left:47px;
+    top:227px;
+    width:74px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u245 {
+    position:absolute;
+    left:157px;
+    top:227px;
+    width:153px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u246 {
+    position:absolute;
+    left:330px;
+    top:241px;
+    width:305px;
+    height:295px
+}
+
+.u247_normal {
+    background-image: url('../My_Lineups_files/u172_normal.png');
+}
+
+.u247_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u247_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u248 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u249_normal {
+    background-image: url('../My_Lineups_files/u174_normal.png');
+}
+
+.u249_container {
+    position:absolute;
+    left:100px;
+    top:0px;
+    width:125px;
+    height:20px;
+}
+
+#u249_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:26px;
+}
+
+.u250 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:121px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u251_normal {
+    background-image: url('../My_Lineups_files/u176_normal.png');
+}
+
+.u251_container {
+    position:absolute;
+    left:225px;
+    top:0px;
+    width:75px;
+    height:20px;
+}
+
+#u251_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:26px;
+}
+
+.u252 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u253_normal {
+    background-image: url('../My_Lineups_files/u178_normal.png');
+}
+
+.u253_container {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:100px;
+    height:30px;
+}
+
+#u253_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:36px;
+}
+
+.u254 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u255_normal {
+    background-image: url('../My_Lineups_files/u180_normal.png');
+}
+
+.u255_container {
+    position:absolute;
+    left:100px;
+    top:20px;
+    width:125px;
+    height:30px;
+}
+
+#u255_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:36px;
+}
+
+.u256 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:121px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u257_normal {
+    background-image: url('../My_Lineups_files/u182_normal.png');
+}
+
+.u257_container {
+    position:absolute;
+    left:225px;
+    top:20px;
+    width:75px;
+    height:30px;
+}
+
+#u257_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:36px;
+}
+
+.u258 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u259_normal {
+    background-image: url('../My_Lineups_files/u178_normal.png');
+}
+
+.u259_container {
+    position:absolute;
+    left:0px;
+    top:50px;
+    width:100px;
+    height:30px;
+}
+
+#u259_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:36px;
+}
+
+.u260 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u261_normal {
+    background-image: url('../My_Lineups_files/u180_normal.png');
+}
+
+.u261_container {
+    position:absolute;
+    left:100px;
+    top:50px;
+    width:125px;
+    height:30px;
+}
+
+#u261_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:36px;
+}
+
+.u262 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:121px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u263_normal {
+    background-image: url('../My_Lineups_files/u182_normal.png');
+}
+
+.u263_container {
+    position:absolute;
+    left:225px;
+    top:50px;
+    width:75px;
+    height:30px;
+}
+
+#u263_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:36px;
+}
+
+.u264 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u265_normal {
+    background-image: url('../My_Lineups_files/u178_normal.png');
+}
+
+.u265_container {
+    position:absolute;
+    left:0px;
+    top:80px;
+    width:100px;
+    height:30px;
+}
+
+#u265_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:36px;
+}
+
+.u266 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u267_normal {
+    background-image: url('../My_Lineups_files/u180_normal.png');
+}
+
+.u267_container {
+    position:absolute;
+    left:100px;
+    top:80px;
+    width:125px;
+    height:30px;
+}
+
+#u267_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:36px;
+}
+
+.u268 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:121px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u269_normal {
+    background-image: url('../My_Lineups_files/u182_normal.png');
+}
+
+.u269_container {
+    position:absolute;
+    left:225px;
+    top:80px;
+    width:75px;
+    height:30px;
+}
+
+#u269_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:36px;
+}
+
+.u270 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u271_normal {
+    background-image: url('../My_Lineups_files/u178_normal.png');
+}
+
+.u271_container {
+    position:absolute;
+    left:0px;
+    top:110px;
+    width:100px;
+    height:30px;
+}
+
+#u271_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:36px;
+}
+
+.u272 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u273_normal {
+    background-image: url('../My_Lineups_files/u180_normal.png');
+}
+
+.u273_container {
+    position:absolute;
+    left:100px;
+    top:110px;
+    width:125px;
+    height:30px;
+}
+
+#u273_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:36px;
+}
+
+.u274 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:121px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u275_normal {
+    background-image: url('../My_Lineups_files/u182_normal.png');
+}
+
+.u275_container {
+    position:absolute;
+    left:225px;
+    top:110px;
+    width:75px;
+    height:30px;
+}
+
+#u275_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:36px;
+}
+
+.u276 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u277_normal {
+    background-image: url('../My_Lineups_files/u178_normal.png');
+}
+
+.u277_container {
+    position:absolute;
+    left:0px;
+    top:140px;
+    width:100px;
+    height:30px;
+}
+
+#u277_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:36px;
+}
+
+.u278 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u279_normal {
+    background-image: url('../My_Lineups_files/u180_normal.png');
+}
+
+.u279_container {
+    position:absolute;
+    left:100px;
+    top:140px;
+    width:125px;
+    height:30px;
+}
+
+#u279_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:36px;
+}
+
+.u280 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:121px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u281_normal {
+    background-image: url('../My_Lineups_files/u182_normal.png');
+}
+
+.u281_container {
+    position:absolute;
+    left:225px;
+    top:140px;
+    width:75px;
+    height:30px;
+}
+
+#u281_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:36px;
+}
+
+.u282 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u283_normal {
+    background-image: url('../My_Lineups_files/u178_normal.png');
+}
+
+.u283_container {
+    position:absolute;
+    left:0px;
+    top:170px;
+    width:100px;
+    height:30px;
+}
+
+#u283_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:36px;
+}
+
+.u284 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u285_normal {
+    background-image: url('../My_Lineups_files/u180_normal.png');
+}
+
+.u285_container {
+    position:absolute;
+    left:100px;
+    top:170px;
+    width:125px;
+    height:30px;
+}
+
+#u285_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:36px;
+}
+
+.u286 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:121px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u287_normal {
+    background-image: url('../My_Lineups_files/u182_normal.png');
+}
+
+.u287_container {
+    position:absolute;
+    left:225px;
+    top:170px;
+    width:75px;
+    height:30px;
+}
+
+#u287_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:36px;
+}
+
+.u288 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u289_normal {
+    background-image: url('../My_Lineups_files/u178_normal.png');
+}
+
+.u289_container {
+    position:absolute;
+    left:0px;
+    top:200px;
+    width:100px;
+    height:30px;
+}
+
+#u289_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:36px;
+}
+
+.u290 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u291_normal {
+    background-image: url('../My_Lineups_files/u180_normal.png');
+}
+
+.u291_container {
+    position:absolute;
+    left:100px;
+    top:200px;
+    width:125px;
+    height:30px;
+}
+
+#u291_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:36px;
+}
+
+.u292 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:121px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u293_normal {
+    background-image: url('../My_Lineups_files/u182_normal.png');
+}
+
+.u293_container {
+    position:absolute;
+    left:225px;
+    top:200px;
+    width:75px;
+    height:30px;
+}
+
+#u293_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:36px;
+}
+
+.u294 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u295_normal {
+    background-image: url('../My_Lineups_files/u178_normal.png');
+}
+
+.u295_container {
+    position:absolute;
+    left:0px;
+    top:230px;
+    width:100px;
+    height:30px;
+}
+
+#u295_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:36px;
+}
+
+.u296 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u297_normal {
+    background-image: url('../My_Lineups_files/u180_normal.png');
+}
+
+.u297_container {
+    position:absolute;
+    left:100px;
+    top:230px;
+    width:125px;
+    height:30px;
+}
+
+#u297_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:36px;
+}
+
+.u298 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:121px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u299_normal {
+    background-image: url('../My_Lineups_files/u182_normal.png');
+}
+
+.u299_container {
+    position:absolute;
+    left:225px;
+    top:230px;
+    width:75px;
+    height:30px;
+}
+
+#u299_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:36px;
+}
+
+.u300 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u301_normal {
+    background-image: url('../My_Lineups_files/u178_normal.png');
+}
+
+.u301_container {
+    position:absolute;
+    left:0px;
+    top:260px;
+    width:100px;
+    height:30px;
+}
+
+#u301_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:36px;
+}
+
+.u302 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u303_normal {
+    background-image: url('../My_Lineups_files/u180_normal.png');
+}
+
+.u303_container {
+    position:absolute;
+    left:100px;
+    top:260px;
+    width:125px;
+    height:30px;
+}
+
+#u303_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:36px;
+}
+
+.u304 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:121px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u305_normal {
+    background-image: url('../My_Lineups_files/u182_normal.png');
+}
+
+.u305_container {
+    position:absolute;
+    left:225px;
+    top:260px;
+    width:75px;
+    height:30px;
+}
+
+#u305_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:36px;
+}
+
+.u306 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u307_normal {
+    background-image: url('../My_Lineups_files/u232_normal.png');
+}
+
+.u307_container {
+    position:absolute;
+    left:330px;
+    top:531px;
+    width:300px;
+    height:35px;
+}
+
+#u307_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:306px;
+    height:41px;
+}
+
+.u308 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:296px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u309_image_sketch {
+    background-image: url('../My_Lineups_files/u309_image_sketch.png');
+    position:absolute;
+    left:529px;
+    top:533px;
+    width:99px;
+    height:31px;
+}
+
+.u309 {
+    position:absolute;
+    left:532px;
+    top:536px;
+    width:93px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u309_text_sketch {
+    color: #000000;
+    font-family: 'Myriad Web Pro';
+}
+
+.u310_image_sketch {
+    background-image: url('../My_Lineups_files/u310_image_sketch.png');
+    position:absolute;
+    left:430px;
+    top:533px;
+    width:99px;
+    height:31px;
+}
+
+.u310 {
+    position:absolute;
+    left:433px;
+    top:536px;
+    width:93px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u310_text_sketch {
+    color: #000000;
+    font-family: 'Myriad Web Pro';
+}
+
+.u311_image_sketch {
+    background-image: url('../My_Lineups_files/u311_image_sketch.png');
+    position:absolute;
+    left:329px;
+    top:533px;
+    width:99px;
+    height:31px;
+}
+
+.u311 {
+    position:absolute;
+    left:332px;
+    top:536px;
+    width:93px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u311_text_sketch {
+    color: #000000;
+    font-family: 'Myriad Web Pro';
+}
+
+.u312_normal {
+    background-image: url('../My_Lineups_files/u238_normal.png');
+}
+
+.u312_container {
+    position:absolute;
+    left:330px;
+    top:206px;
+    width:300px;
+    height:35px;
+}
+
+#u312_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:306px;
+    height:41px;
+}
+
+.u313 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:296px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u314 {
+    position:absolute;
+    left:367px;
+    top:208px;
+    width:139px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u315_normal {
+    background-image: url('../My_Lineups_files/u241_normal.png');
+}
+
+.u315_container {
+    position:absolute;
+    left:333px;
+    top:208px;
+    width:27px;
+    height:30px;
+}
+
+#u315_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:33px;
+    height:36px;
+}
+
+.u316 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:23px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u317 {
+    position:absolute;
+    left:491px;
+    top:208px;
+    width:139px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u318 {
+    position:absolute;
+    left:367px;
+    top:224px;
+    width:74px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u319 {
+    position:absolute;
+    left:477px;
+    top:224px;
+    width:153px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u320 {
+    position:absolute;
+    left:650px;
+    top:239px;
+    width:305px;
+    height:295px
+}
+
+.u321_normal {
+    background-image: url('../My_Lineups_files/u172_normal.png');
+}
+
+.u321_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u321_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u322 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u323_normal {
+    background-image: url('../My_Lineups_files/u174_normal.png');
+}
+
+.u323_container {
+    position:absolute;
+    left:100px;
+    top:0px;
+    width:125px;
+    height:20px;
+}
+
+#u323_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:26px;
+}
+
+.u324 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:121px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u325_normal {
+    background-image: url('../My_Lineups_files/u176_normal.png');
+}
+
+.u325_container {
+    position:absolute;
+    left:225px;
+    top:0px;
+    width:75px;
+    height:20px;
+}
+
+#u325_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:26px;
+}
+
+.u326 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u327_normal {
+    background-image: url('../My_Lineups_files/u178_normal.png');
+}
+
+.u327_container {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:100px;
+    height:30px;
+}
+
+#u327_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:36px;
+}
+
+.u328 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u329_normal {
+    background-image: url('../My_Lineups_files/u180_normal.png');
+}
+
+.u329_container {
+    position:absolute;
+    left:100px;
+    top:20px;
+    width:125px;
+    height:30px;
+}
+
+#u329_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:36px;
+}
+
+.u330 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:121px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u331_normal {
+    background-image: url('../My_Lineups_files/u182_normal.png');
+}
+
+.u331_container {
+    position:absolute;
+    left:225px;
+    top:20px;
+    width:75px;
+    height:30px;
+}
+
+#u331_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:36px;
+}
+
+.u332 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u333_normal {
+    background-image: url('../My_Lineups_files/u178_normal.png');
+}
+
+.u333_container {
+    position:absolute;
+    left:0px;
+    top:50px;
+    width:100px;
+    height:30px;
+}
+
+#u333_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:36px;
+}
+
+.u334 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u335_normal {
+    background-image: url('../My_Lineups_files/u180_normal.png');
+}
+
+.u335_container {
+    position:absolute;
+    left:100px;
+    top:50px;
+    width:125px;
+    height:30px;
+}
+
+#u335_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:36px;
+}
+
+.u336 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:121px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u337_normal {
+    background-image: url('../My_Lineups_files/u182_normal.png');
+}
+
+.u337_container {
+    position:absolute;
+    left:225px;
+    top:50px;
+    width:75px;
+    height:30px;
+}
+
+#u337_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:36px;
+}
+
+.u338 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u339_normal {
+    background-image: url('../My_Lineups_files/u178_normal.png');
+}
+
+.u339_container {
+    position:absolute;
+    left:0px;
+    top:80px;
+    width:100px;
+    height:30px;
+}
+
+#u339_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:36px;
+}
+
+.u340 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u341_normal {
+    background-image: url('../My_Lineups_files/u180_normal.png');
+}
+
+.u341_container {
+    position:absolute;
+    left:100px;
+    top:80px;
+    width:125px;
+    height:30px;
+}
+
+#u341_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:36px;
+}
+
+.u342 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:121px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u343_normal {
+    background-image: url('../My_Lineups_files/u182_normal.png');
+}
+
+.u343_container {
+    position:absolute;
+    left:225px;
+    top:80px;
+    width:75px;
+    height:30px;
+}
+
+#u343_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:36px;
+}
+
+.u344 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u345_normal {
+    background-image: url('../My_Lineups_files/u178_normal.png');
+}
+
+.u345_container {
+    position:absolute;
+    left:0px;
+    top:110px;
+    width:100px;
+    height:30px;
+}
+
+#u345_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:36px;
+}
+
+.u346 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u347_normal {
+    background-image: url('../My_Lineups_files/u180_normal.png');
+}
+
+.u347_container {
+    position:absolute;
+    left:100px;
+    top:110px;
+    width:125px;
+    height:30px;
+}
+
+#u347_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:36px;
+}
+
+.u348 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:121px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u349_normal {
+    background-image: url('../My_Lineups_files/u182_normal.png');
+}
+
+.u349_container {
+    position:absolute;
+    left:225px;
+    top:110px;
+    width:75px;
+    height:30px;
+}
+
+#u349_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:36px;
+}
+
+.u350 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u351_normal {
+    background-image: url('../My_Lineups_files/u178_normal.png');
+}
+
+.u351_container {
+    position:absolute;
+    left:0px;
+    top:140px;
+    width:100px;
+    height:30px;
+}
+
+#u351_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:36px;
+}
+
+.u352 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u353_normal {
+    background-image: url('../My_Lineups_files/u180_normal.png');
+}
+
+.u353_container {
+    position:absolute;
+    left:100px;
+    top:140px;
+    width:125px;
+    height:30px;
+}
+
+#u353_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:36px;
+}
+
+.u354 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:121px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u355_normal {
+    background-image: url('../My_Lineups_files/u182_normal.png');
+}
+
+.u355_container {
+    position:absolute;
+    left:225px;
+    top:140px;
+    width:75px;
+    height:30px;
+}
+
+#u355_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:36px;
+}
+
+.u356 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u357_normal {
+    background-image: url('../My_Lineups_files/u178_normal.png');
+}
+
+.u357_container {
+    position:absolute;
+    left:0px;
+    top:170px;
+    width:100px;
+    height:30px;
+}
+
+#u357_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:36px;
+}
+
+.u358 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u359_normal {
+    background-image: url('../My_Lineups_files/u180_normal.png');
+}
+
+.u359_container {
+    position:absolute;
+    left:100px;
+    top:170px;
+    width:125px;
+    height:30px;
+}
+
+#u359_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:36px;
+}
+
+.u360 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:121px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u361_normal {
+    background-image: url('../My_Lineups_files/u182_normal.png');
+}
+
+.u361_container {
+    position:absolute;
+    left:225px;
+    top:170px;
+    width:75px;
+    height:30px;
+}
+
+#u361_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:36px;
+}
+
+.u362 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u363_normal {
+    background-image: url('../My_Lineups_files/u178_normal.png');
+}
+
+.u363_container {
+    position:absolute;
+    left:0px;
+    top:200px;
+    width:100px;
+    height:30px;
+}
+
+#u363_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:36px;
+}
+
+.u364 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u365_normal {
+    background-image: url('../My_Lineups_files/u180_normal.png');
+}
+
+.u365_container {
+    position:absolute;
+    left:100px;
+    top:200px;
+    width:125px;
+    height:30px;
+}
+
+#u365_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:36px;
+}
+
+.u366 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:121px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u367_normal {
+    background-image: url('../My_Lineups_files/u182_normal.png');
+}
+
+.u367_container {
+    position:absolute;
+    left:225px;
+    top:200px;
+    width:75px;
+    height:30px;
+}
+
+#u367_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:36px;
+}
+
+.u368 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u369_normal {
+    background-image: url('../My_Lineups_files/u178_normal.png');
+}
+
+.u369_container {
+    position:absolute;
+    left:0px;
+    top:230px;
+    width:100px;
+    height:30px;
+}
+
+#u369_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:36px;
+}
+
+.u370 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u371_normal {
+    background-image: url('../My_Lineups_files/u180_normal.png');
+}
+
+.u371_container {
+    position:absolute;
+    left:100px;
+    top:230px;
+    width:125px;
+    height:30px;
+}
+
+#u371_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:36px;
+}
+
+.u372 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:121px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u373_normal {
+    background-image: url('../My_Lineups_files/u182_normal.png');
+}
+
+.u373_container {
+    position:absolute;
+    left:225px;
+    top:230px;
+    width:75px;
+    height:30px;
+}
+
+#u373_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:36px;
+}
+
+.u374 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u375_normal {
+    background-image: url('../My_Lineups_files/u178_normal.png');
+}
+
+.u375_container {
+    position:absolute;
+    left:0px;
+    top:260px;
+    width:100px;
+    height:30px;
+}
+
+#u375_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:36px;
+}
+
+.u376 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u377_normal {
+    background-image: url('../My_Lineups_files/u180_normal.png');
+}
+
+.u377_container {
+    position:absolute;
+    left:100px;
+    top:260px;
+    width:125px;
+    height:30px;
+}
+
+#u377_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:36px;
+}
+
+.u378 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:121px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u379_normal {
+    background-image: url('../My_Lineups_files/u182_normal.png');
+}
+
+.u379_container {
+    position:absolute;
+    left:225px;
+    top:260px;
+    width:75px;
+    height:30px;
+}
+
+#u379_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:36px;
+}
+
+.u380 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u381_normal {
+    background-image: url('../My_Lineups_files/u232_normal.png');
+}
+
+.u381_container {
+    position:absolute;
+    left:650px;
+    top:529px;
+    width:300px;
+    height:35px;
+}
+
+#u381_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:306px;
+    height:41px;
+}
+
+.u382 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:296px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u383_image_sketch {
+    background-image: url('../My_Lineups_files/u383_image_sketch.png');
+    position:absolute;
+    left:849px;
+    top:531px;
+    width:99px;
+    height:31px;
+}
+
+.u383 {
+    position:absolute;
+    left:852px;
+    top:534px;
+    width:93px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u383_text_sketch {
+    color: #000000;
+    font-family: 'Myriad Web Pro';
+}
+
+.u384_image_sketch {
+    background-image: url('../My_Lineups_files/u384_image_sketch.png');
+    position:absolute;
+    left:750px;
+    top:531px;
+    width:99px;
+    height:31px;
+}
+
+.u384 {
+    position:absolute;
+    left:753px;
+    top:534px;
+    width:93px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u384_text_sketch {
+    color: #000000;
+    font-family: 'Myriad Web Pro';
+}
+
+.u385_image_sketch {
+    background-image: url('../My_Lineups_files/u385_image_sketch.png');
+    position:absolute;
+    left:649px;
+    top:531px;
+    width:99px;
+    height:31px;
+}
+
+.u385 {
+    position:absolute;
+    left:652px;
+    top:534px;
+    width:93px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u385_text_sketch {
+    color: #000000;
+    font-family: 'Myriad Web Pro';
+}
+
+.u386_normal {
+    background-image: url('../My_Lineups_files/u238_normal.png');
+}
+
+.u386_container {
+    position:absolute;
+    left:650px;
+    top:204px;
+    width:300px;
+    height:35px;
+}
+
+#u386_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:306px;
+    height:41px;
+}
+
+.u387 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:296px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u388 {
+    position:absolute;
+    left:687px;
+    top:206px;
+    width:139px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u389_normal {
+    background-image: url('../My_Lineups_files/u241_normal.png');
+}
+
+.u389_container {
+    position:absolute;
+    left:653px;
+    top:206px;
+    width:27px;
+    height:30px;
+}
+
+#u389_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:33px;
+    height:36px;
+}
+
+.u390 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:23px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u391 {
+    position:absolute;
+    left:811px;
+    top:206px;
+    width:139px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u392 {
+    position:absolute;
+    left:687px;
+    top:222px;
+    width:74px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u393 {
+    position:absolute;
+    left:797px;
+    top:222px;
+    width:153px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

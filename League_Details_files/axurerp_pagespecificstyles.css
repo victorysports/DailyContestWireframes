@@ -1,0 +1,4264 @@
+﻿body {
+    margin: 0px;
+    background-color: #CBCBCB;
+    text-align: center;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+    position: relative;
+    left: -0px;
+    width: 964px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_menu {
+    background-image: url('../League_Details_files/u0_menu.png');
+}
+
+.u0_menu {
+    position:absolute;
+    left:-3px;
+    top:67px;
+    width:615px;
+    height:35px;
+}
+
+#u0_menu {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:612px;
+    height:32px;
+}
+
+#u1 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:605px;
+    height:25px
+}
+
+.u2_normal {
+    background-image: url('../League_Details_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../League_Details_files/u2_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:100px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6_normal {
+    background-image: url('../League_Details_files/u2_normal.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:200px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u6_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_normal {
+    background-image: url('../League_Details_files/u2_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:300px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u8_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10_normal {
+    background-image: url('../League_Details_files/u2_normal.png');
+}
+
+.u10_container {
+    position:absolute;
+    left:400px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u10_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12_normal {
+    background-image: url('../League_Details_files/u2_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:500px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u12_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14_menu {
+    background-image: url('../League_Details_files/u14_menu.png');
+}
+
+.u14_menu {
+    position:absolute;
+    left:500px;
+    top:20px;
+    width:115px;
+    height:95px;
+}
+
+#u14_menu {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:112px;
+    height:92px;
+}
+
+#u15 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:105px;
+    height:85px
+}
+
+.u16_normal {
+    background-image: url('../League_Details_files/u2_normal.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u16_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u17 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18_normal {
+    background-image: url('../League_Details_files/u2_normal.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:100px;
+    height:20px;
+}
+
+#u18_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20_normal {
+    background-image: url('../League_Details_files/u2_normal.png');
+}
+
+.u20_container {
+    position:absolute;
+    left:0px;
+    top:40px;
+    width:100px;
+    height:20px;
+}
+
+#u20_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u21 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22_normal {
+    background-image: url('../League_Details_files/u2_normal.png');
+}
+
+.u22_container {
+    position:absolute;
+    left:0px;
+    top:60px;
+    width:100px;
+    height:20px;
+}
+
+#u22_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u23 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24_menu {
+    background-image: url('../League_Details_files/u24_menu.png');
+}
+
+.u24_menu {
+    position:absolute;
+    left:100px;
+    top:20px;
+    width:115px;
+    height:75px;
+}
+
+#u24_menu {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:112px;
+    height:72px;
+}
+
+#u25 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:105px;
+    height:65px
+}
+
+.u26_normal {
+    background-image: url('../League_Details_files/u2_normal.png');
+}
+
+.u26_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u26_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u27 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28_normal {
+    background-image: url('../League_Details_files/u2_normal.png');
+}
+
+.u28_container {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:100px;
+    height:20px;
+}
+
+#u28_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u29 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30_normal {
+    background-image: url('../League_Details_files/u2_normal.png');
+}
+
+.u30_container {
+    position:absolute;
+    left:0px;
+    top:40px;
+    width:100px;
+    height:20px;
+}
+
+#u30_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u31 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32_menu {
+    background-image: url('../League_Details_files/u32_menu.png');
+}
+
+.u32_menu {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:115px;
+    height:95px;
+}
+
+#u32_menu {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:112px;
+    height:92px;
+}
+
+#u33 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:105px;
+    height:85px
+}
+
+.u34_normal {
+    background-image: url('../League_Details_files/u2_normal.png');
+}
+
+.u34_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u34_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u35 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36_normal {
+    background-image: url('../League_Details_files/u2_normal.png');
+}
+
+.u36_container {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:100px;
+    height:20px;
+}
+
+#u36_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u37 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38_normal {
+    background-image: url('../League_Details_files/u2_normal.png');
+}
+
+.u38_container {
+    position:absolute;
+    left:0px;
+    top:40px;
+    width:100px;
+    height:20px;
+}
+
+#u38_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u39 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40_normal {
+    background-image: url('../League_Details_files/u2_normal.png');
+}
+
+.u40_container {
+    position:absolute;
+    left:0px;
+    top:60px;
+    width:100px;
+    height:20px;
+}
+
+#u40_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u41 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42_menu {
+    background-image: url('../League_Details_files/u42_menu.png');
+}
+
+.u42_menu {
+    position:absolute;
+    left:200px;
+    top:20px;
+    width:115px;
+    height:75px;
+}
+
+#u42_menu {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:112px;
+    height:72px;
+}
+
+#u43 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:105px;
+    height:65px
+}
+
+.u44_normal {
+    background-image: url('../League_Details_files/u2_normal.png');
+}
+
+.u44_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u44_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u45 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46_normal {
+    background-image: url('../League_Details_files/u2_normal.png');
+}
+
+.u46_container {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:100px;
+    height:20px;
+}
+
+#u46_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u47 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u48_normal {
+    background-image: url('../League_Details_files/u2_normal.png');
+}
+
+.u48_container {
+    position:absolute;
+    left:0px;
+    top:40px;
+    width:100px;
+    height:20px;
+}
+
+#u48_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u49 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50 {
+    position:absolute;
+    left:10px;
+    top:19px;
+    width:280px;
+    height:33px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u51_normal {
+    background-image: url('../League_Details_files/u51_normal.png');
+}
+
+.u51_container {
+    position:absolute;
+    left:873px;
+    top:10px;
+    width:50px;
+    height:50px;
+}
+
+#u51_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:56px;
+    height:56px;
+}
+
+.u52 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:46px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u53_menu {
+    background-image: url('../League_Details_files/u53_menu.png');
+}
+
+.u53_menu {
+    position:absolute;
+    left:741px;
+    top:19px;
+    width:115px;
+    height:35px;
+}
+
+#u53_menu {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:112px;
+    height:32px;
+}
+
+#u54 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:105px;
+    height:25px
+}
+
+.u55_normal {
+    background-image: url('../League_Details_files/u2_normal.png');
+}
+
+.u55_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u55_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u56 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u57_menu {
+    background-image: url('../League_Details_files/u57_menu.png');
+}
+
+.u57_menu {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:134px;
+    height:75px;
+}
+
+#u57_menu {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:72px;
+}
+
+#u58 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:124px;
+    height:65px
+}
+
+.u59_normal {
+    background-image: url('../League_Details_files/u59_normal.png');
+}
+
+.u59_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:119px;
+    height:20px;
+}
+
+#u59_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:125px;
+    height:26px;
+}
+
+.u60 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:115px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u61_normal {
+    background-image: url('../League_Details_files/u59_normal.png');
+}
+
+.u61_container {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:119px;
+    height:20px;
+}
+
+#u61_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:125px;
+    height:26px;
+}
+
+.u62 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:115px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u63_normal {
+    background-image: url('../League_Details_files/u59_normal.png');
+}
+
+.u63_container {
+    position:absolute;
+    left:0px;
+    top:40px;
+    width:119px;
+    height:20px;
+}
+
+#u63_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:125px;
+    height:26px;
+}
+
+.u64 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:115px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u65_normal {
+    background-image: url('../League_Details_files/u65_normal.png');
+}
+
+.u65_container {
+    position:absolute;
+    left:829px;
+    top:32px;
+    width:10px;
+    height:5px;
+}
+
+#u65_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:16px;
+    height:11px;
+}
+
+.u66 {
+    position:absolute;
+    left:2px;
+    top:-6px;
+    width:6px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u67_normal {
+    background-image: url('../League_Details_files/u65_normal.png');
+}
+
+.u67_container {
+    position:absolute;
+    left:933px;
+    top:32px;
+    width:10px;
+    height:5px;
+}
+
+#u67_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:16px;
+    height:11px;
+}
+
+.u68 {
+    position:absolute;
+    left:2px;
+    top:-6px;
+    width:6px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u69_menu {
+    background-image: url('../League_Details_files/u69_menu.png');
+}
+
+.u69_menu {
+    position:absolute;
+    left:641px;
+    top:67px;
+    width:315px;
+    height:35px;
+}
+
+#u69_menu {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:312px;
+    height:32px;
+}
+
+#u70 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:305px;
+    height:25px
+}
+
+.u71_normal {
+    background-image: url('../League_Details_files/u2_normal.png');
+}
+
+.u71_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u71_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u72 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u73_normal {
+    background-image: url('../League_Details_files/u2_normal.png');
+}
+
+.u73_container {
+    position:absolute;
+    left:100px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u73_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u74 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u75_normal {
+    background-image: url('../League_Details_files/u2_normal.png');
+}
+
+.u75_container {
+    position:absolute;
+    left:200px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u75_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u76 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u77_menu {
+    background-image: url('../League_Details_files/u77_menu.png');
+}
+
+.u77_menu {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:115px;
+    height:75px;
+}
+
+#u77_menu {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:112px;
+    height:72px;
+}
+
+#u78 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:105px;
+    height:65px
+}
+
+.u79_normal {
+    background-image: url('../League_Details_files/u2_normal.png');
+}
+
+.u79_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u79_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u80 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u81_normal {
+    background-image: url('../League_Details_files/u2_normal.png');
+}
+
+.u81_container {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:100px;
+    height:20px;
+}
+
+#u81_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u82 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u83_normal {
+    background-image: url('../League_Details_files/u2_normal.png');
+}
+
+.u83_container {
+    position:absolute;
+    left:0px;
+    top:40px;
+    width:100px;
+    height:20px;
+}
+
+#u83_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u84 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u85 {
+    position:absolute;
+    left:764px;
+    top:61px;
+    width:201px;
+    height:89px;
+    overflow:hidden;
+}
+
+#pd1u85 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:201px;
+    height:89px;
+    
+}
+
+#pd0u85 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:201px;
+    height:89px;
+    
+}
+
+.u86_menu {
+    background-image: url('../League_Details_files/u86_menu.png');
+}
+
+.u86_menu {
+    position:absolute;
+    left:1px;
+    top:-3px;
+    width:165px;
+    height:95px;
+}
+
+#u86_menu {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:162px;
+    height:92px;
+}
+
+#u87 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:155px;
+    height:85px
+}
+
+.u88_normal {
+    background-image: url('../League_Details_files/u88_normal.png');
+}
+
+.u88_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:150px;
+    height:20px;
+}
+
+#u88_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:26px;
+}
+
+.u89 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u90_normal {
+    background-image: url('../League_Details_files/u88_normal.png');
+}
+
+.u90_container {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:150px;
+    height:20px;
+}
+
+#u90_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:26px;
+}
+
+.u91 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u92_normal {
+    background-image: url('../League_Details_files/u88_normal.png');
+}
+
+.u92_container {
+    position:absolute;
+    left:0px;
+    top:40px;
+    width:150px;
+    height:20px;
+}
+
+#u92_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:26px;
+}
+
+.u93 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u94_normal {
+    background-image: url('../League_Details_files/u88_normal.png');
+}
+
+.u94_container {
+    position:absolute;
+    left:0px;
+    top:60px;
+    width:150px;
+    height:20px;
+}
+
+#u94_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:26px;
+}
+
+.u95 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u96_normal {
+    background-image: url('../League_Details_files/u96_normal.png');
+}
+
+.u96_container {
+    position:absolute;
+    left:716px;
+    top:28px;
+    width:14px;
+    height:14px;
+}
+
+#u96_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:14px;
+    height:14px;
+}
+
+.u97 {
+    position:absolute;
+    left:2px;
+    top:-1px;
+    width:10px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u99 {
+    position:absolute;
+    left:10px;
+    top:167px;
+    width:150px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u100_image_sketch {
+    background-image: url('../League_Details_files/u100_image_sketch.png');
+    position:absolute;
+    left:847px;
+    top:164px;
+    width:106px;
+    height:31px;
+}
+
+.u100 {
+    position:absolute;
+    left:850px;
+    top:167px;
+    width:100px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u100_text_sketch {
+    color: #000000;
+    font-family: 'Myriad Web Pro';
+}
+
+.u101_image_sketch {
+    background-image: url('../League_Details_files/u101_image_sketch.png');
+    position:absolute;
+    left:727px;
+    top:164px;
+    width:106px;
+    height:31px;
+}
+
+.u101 {
+    position:absolute;
+    left:730px;
+    top:167px;
+    width:100px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u101_text_sketch {
+    color: #000000;
+    font-family: 'Myriad Web Pro';
+}
+
+#u102 {
+    position:absolute;
+    left:50px;
+    top:202px;
+    width:865px;
+    height:97px
+}
+
+.u103_normal {
+    background-image: url('../League_Details_files/u103_normal.png');
+}
+
+.u103_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:250px;
+    height:20px;
+}
+
+#u103_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:256px;
+    height:26px;
+}
+
+.u104 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:246px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u105_normal {
+    background-image: url('../League_Details_files/u105_normal.png');
+}
+
+.u105_container {
+    position:absolute;
+    left:250px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u105_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u106 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u107_normal {
+    background-image: url('../League_Details_files/u105_normal.png');
+}
+
+.u107_container {
+    position:absolute;
+    left:350px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u107_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u108 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u109_normal {
+    background-image: url('../League_Details_files/u105_normal.png');
+}
+
+.u109_container {
+    position:absolute;
+    left:450px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u109_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u110 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u111_normal {
+    background-image: url('../League_Details_files/u111_normal.png');
+}
+
+.u111_container {
+    position:absolute;
+    left:550px;
+    top:0px;
+    width:310px;
+    height:20px;
+}
+
+#u111_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:316px;
+    height:26px;
+}
+
+.u112 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:306px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u113_normal {
+    background-image: url('../League_Details_files/u113_normal.png');
+}
+
+.u113_container {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:250px;
+    height:36px;
+}
+
+#u113_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:256px;
+    height:42px;
+}
+
+.u114 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:246px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u115_normal {
+    background-image: url('../League_Details_files/u115_normal.png');
+}
+
+.u115_container {
+    position:absolute;
+    left:250px;
+    top:20px;
+    width:100px;
+    height:36px;
+}
+
+#u115_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:42px;
+}
+
+.u116 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u117_normal {
+    background-image: url('../League_Details_files/u115_normal.png');
+}
+
+.u117_container {
+    position:absolute;
+    left:350px;
+    top:20px;
+    width:100px;
+    height:36px;
+}
+
+#u117_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:42px;
+}
+
+.u118 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u119_normal {
+    background-image: url('../League_Details_files/u115_normal.png');
+}
+
+.u119_container {
+    position:absolute;
+    left:450px;
+    top:20px;
+    width:100px;
+    height:36px;
+}
+
+#u119_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:42px;
+}
+
+.u120 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u121_normal {
+    background-image: url('../League_Details_files/u121_normal.png');
+}
+
+.u121_container {
+    position:absolute;
+    left:550px;
+    top:20px;
+    width:310px;
+    height:36px;
+}
+
+#u121_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:316px;
+    height:42px;
+}
+
+.u122 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:306px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u123_normal {
+    background-image: url('../League_Details_files/u113_normal.png');
+}
+
+.u123_container {
+    position:absolute;
+    left:0px;
+    top:56px;
+    width:250px;
+    height:36px;
+}
+
+#u123_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:256px;
+    height:42px;
+}
+
+.u124 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:246px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u125_normal {
+    background-image: url('../League_Details_files/u115_normal.png');
+}
+
+.u125_container {
+    position:absolute;
+    left:250px;
+    top:56px;
+    width:100px;
+    height:36px;
+}
+
+#u125_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:42px;
+}
+
+.u126 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u127_normal {
+    background-image: url('../League_Details_files/u115_normal.png');
+}
+
+.u127_container {
+    position:absolute;
+    left:350px;
+    top:56px;
+    width:100px;
+    height:36px;
+}
+
+#u127_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:42px;
+}
+
+.u128 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u129_normal {
+    background-image: url('../League_Details_files/u115_normal.png');
+}
+
+.u129_container {
+    position:absolute;
+    left:450px;
+    top:56px;
+    width:100px;
+    height:36px;
+}
+
+#u129_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:42px;
+}
+
+.u130 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u131_normal {
+    background-image: url('../League_Details_files/u121_normal.png');
+}
+
+.u131_container {
+    position:absolute;
+    left:550px;
+    top:56px;
+    width:310px;
+    height:36px;
+}
+
+#u131_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:316px;
+    height:42px;
+}
+
+.u132 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:306px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u133_image_sketch {
+    background-image: url('../League_Details_files/u133_image_sketch.png');
+    position:absolute;
+    left:798px;
+    top:226px;
+    width:106px;
+    height:26px;
+}
+
+.u133 {
+    position:absolute;
+    left:801px;
+    top:229px;
+    width:100px;
+    height:20px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u133_text_sketch {
+    color: #000000;
+    font-family: 'Myriad Web Pro';
+}
+
+.u134_image_sketch {
+    background-image: url('../League_Details_files/u134_image_sketch.png');
+    position:absolute;
+    left:798px;
+    top:263px;
+    width:106px;
+    height:26px;
+}
+
+.u134 {
+    position:absolute;
+    left:801px;
+    top:266px;
+    width:100px;
+    height:20px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u134_text_sketch {
+    color: #000000;
+    font-family: 'Myriad Web Pro';
+}
+
+.u135 {
+    position:absolute;
+    left:50px;
+    top:392px;
+    width:159px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u136 {
+    position:absolute;
+    left:50px;
+    top:372px;
+    width:117px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u137 {
+    position:absolute;
+    left:172px;
+    top:372px;
+    width:69px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u138 {
+    position:absolute;
+    left:485px;
+    top:392px;
+    width:85px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u139 {
+    position:absolute;
+    left:50px;
+    top:447px;
+    width:175px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u140 {
+    position:absolute;
+    left:50px;
+    top:427px;
+    width:117px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u141 {
+    position:absolute;
+    left:172px;
+    top:427px;
+    width:74px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u142 {
+    position:absolute;
+    left:485px;
+    top:447px;
+    width:85px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u143_line {
+    background-image: url('../League_Details_files/u143_line.png');
+}
+
+.u143_line {
+    position:absolute;
+    left:0px;
+    top:3px;
+    width:520px;
+    height:5px;
+}
+
+.u143 {
+    position:absolute;
+    left:50px;
+    top:412px;
+    width:520px;
+    height:10px;
+    
+}
+
+.u144 {
+    position:absolute;
+    left:448px;
+    top:372px;
+    width:79px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u145 {
+    position:absolute;
+    left:448px;
+    top:427px;
+    width:79px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u146 {
+    position:absolute;
+    left:50px;
+    top:347px;
+    width:520px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u147 {
+    position:absolute;
+    left:552px;
+    top:427px;
+    width:17px;
+    height:17px;
+    overflow:hidden;
+}
+
+#pd1u147 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:17px;
+    height:17px;
+    
+}
+
+.u148_normal {
+    background-image: url('../League_Details_files/u148_normal.png');
+}
+
+.u148_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+#u148_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u149 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd0u147 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:17px;
+    height:17px;
+    
+}
+
+.u150_normal {
+    background-image: url('../League_Details_files/u150_normal.png');
+}
+
+.u150_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+#u150_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u151 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u152 {
+    position:absolute;
+    left:532px;
+    top:427px;
+    width:17px;
+    height:17px;
+    overflow:hidden;
+}
+
+#pd1u152 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:17px;
+    height:17px;
+    
+}
+
+.u153_normal {
+    background-image: url('../League_Details_files/u153_normal.png');
+}
+
+.u153_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+#u153_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u154 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd0u152 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:17px;
+    height:17px;
+    
+}
+
+.u155_normal {
+    background-image: url('../League_Details_files/u155_normal.png');
+}
+
+.u155_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+#u155_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u156 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u158 {
+    position:absolute;
+    left:552px;
+    top:372px;
+    width:17px;
+    height:17px;
+    overflow:hidden;
+}
+
+#pd1u158 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:17px;
+    height:17px;
+    
+}
+
+.u159_normal {
+    background-image: url('../League_Details_files/u148_normal.png');
+}
+
+.u159_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+#u159_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u160 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd0u158 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:17px;
+    height:17px;
+    
+}
+
+.u161_normal {
+    background-image: url('../League_Details_files/u150_normal.png');
+}
+
+.u161_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+#u161_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u162 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u163 {
+    position:absolute;
+    left:532px;
+    top:372px;
+    width:17px;
+    height:17px;
+    overflow:hidden;
+}
+
+#pd1u163 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:17px;
+    height:17px;
+    
+}
+
+.u164_normal {
+    background-image: url('../League_Details_files/u153_normal.png');
+}
+
+.u164_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+#u164_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u165 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd0u163 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:17px;
+    height:17px;
+    
+}
+
+.u166_normal {
+    background-image: url('../League_Details_files/u155_normal.png');
+}
+
+.u166_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+#u166_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u167 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u170 {
+    position:absolute;
+    left:50px;
+    top:486px;
+    width:150px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u171_image_sketch {
+    background-image: url('../League_Details_files/u171_image_sketch.png');
+    position:absolute;
+    left:47px;
+    top:514px;
+    width:526px;
+    height:67px;
+}
+
+.u171 {
+    position:absolute;
+    left:50px;
+    top:517px;
+    width:520px;
+    height:61px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u171_text_sketch {
+    color: #000000;
+    font-family: 'Myriad Web Pro';
+}
+
+.u172_image_sketch {
+    background-image: url('../League_Details_files/u172_image_sketch.png');
+    position:absolute;
+    left:447px;
+    top:585px;
+    width:126px;
+    height:31px;
+}
+
+.u172 {
+    position:absolute;
+    left:450px;
+    top:588px;
+    width:120px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u172_text_sketch {
+    color: #000000;
+    font-family: 'Myriad Web Pro';
+}
+
+.u173 {
+    position:absolute;
+    left:10px;
+    top:313px;
+    width:150px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u174 {
+    position:absolute;
+    left:610px;
+    top:313px;
+    width:150px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u175 {
+    position:absolute;
+    left:610px;
+    top:347px;
+    width:305px;
+    height:235px
+}
+
+.u176_normal {
+    background-image: url('../League_Details_files/u176_normal.png');
+}
+
+.u176_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:75px;
+    height:20px;
+}
+
+#u176_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:26px;
+}
+
+.u177 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u178_normal {
+    background-image: url('../League_Details_files/u178_normal.png');
+}
+
+.u178_container {
+    position:absolute;
+    left:75px;
+    top:0px;
+    width:225px;
+    height:20px;
+}
+
+#u178_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:231px;
+    height:26px;
+}
+
+.u179 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:221px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u180_normal {
+    background-image: url('../League_Details_files/u180_normal.png');
+}
+
+.u180_container {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:75px;
+    height:30px;
+}
+
+#u180_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:36px;
+}
+
+.u181 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u182_normal {
+    background-image: url('../League_Details_files/u182_normal.png');
+}
+
+.u182_container {
+    position:absolute;
+    left:75px;
+    top:20px;
+    width:225px;
+    height:30px;
+}
+
+#u182_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:231px;
+    height:36px;
+}
+
+.u183 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:221px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u184_normal {
+    background-image: url('../League_Details_files/u180_normal.png');
+}
+
+.u184_container {
+    position:absolute;
+    left:0px;
+    top:50px;
+    width:75px;
+    height:30px;
+}
+
+#u184_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:36px;
+}
+
+.u185 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u186_normal {
+    background-image: url('../League_Details_files/u182_normal.png');
+}
+
+.u186_container {
+    position:absolute;
+    left:75px;
+    top:50px;
+    width:225px;
+    height:30px;
+}
+
+#u186_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:231px;
+    height:36px;
+}
+
+.u187 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:221px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u188_normal {
+    background-image: url('../League_Details_files/u180_normal.png');
+}
+
+.u188_container {
+    position:absolute;
+    left:0px;
+    top:80px;
+    width:75px;
+    height:30px;
+}
+
+#u188_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:36px;
+}
+
+.u189 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u190_normal {
+    background-image: url('../League_Details_files/u182_normal.png');
+}
+
+.u190_container {
+    position:absolute;
+    left:75px;
+    top:80px;
+    width:225px;
+    height:30px;
+}
+
+#u190_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:231px;
+    height:36px;
+}
+
+.u191 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:221px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u192_normal {
+    background-image: url('../League_Details_files/u180_normal.png');
+}
+
+.u192_container {
+    position:absolute;
+    left:0px;
+    top:110px;
+    width:75px;
+    height:30px;
+}
+
+#u192_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:36px;
+}
+
+.u193 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u194_normal {
+    background-image: url('../League_Details_files/u182_normal.png');
+}
+
+.u194_container {
+    position:absolute;
+    left:75px;
+    top:110px;
+    width:225px;
+    height:30px;
+}
+
+#u194_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:231px;
+    height:36px;
+}
+
+.u195 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:221px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u196_normal {
+    background-image: url('../League_Details_files/u180_normal.png');
+}
+
+.u196_container {
+    position:absolute;
+    left:0px;
+    top:140px;
+    width:75px;
+    height:30px;
+}
+
+#u196_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:36px;
+}
+
+.u197 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u198_normal {
+    background-image: url('../League_Details_files/u182_normal.png');
+}
+
+.u198_container {
+    position:absolute;
+    left:75px;
+    top:140px;
+    width:225px;
+    height:30px;
+}
+
+#u198_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:231px;
+    height:36px;
+}
+
+.u199 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:221px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u200_normal {
+    background-image: url('../League_Details_files/u180_normal.png');
+}
+
+.u200_container {
+    position:absolute;
+    left:0px;
+    top:170px;
+    width:75px;
+    height:30px;
+}
+
+#u200_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:36px;
+}
+
+.u201 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u202_normal {
+    background-image: url('../League_Details_files/u182_normal.png');
+}
+
+.u202_container {
+    position:absolute;
+    left:75px;
+    top:170px;
+    width:225px;
+    height:30px;
+}
+
+#u202_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:231px;
+    height:36px;
+}
+
+.u203 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:221px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u204_normal {
+    background-image: url('../League_Details_files/u180_normal.png');
+}
+
+.u204_container {
+    position:absolute;
+    left:0px;
+    top:200px;
+    width:75px;
+    height:30px;
+}
+
+#u204_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:36px;
+}
+
+.u205 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u206_normal {
+    background-image: url('../League_Details_files/u182_normal.png');
+}
+
+.u206_container {
+    position:absolute;
+    left:75px;
+    top:200px;
+    width:225px;
+    height:30px;
+}
+
+#u206_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:231px;
+    height:36px;
+}
+
+.u207 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:221px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u208_image_sketch {
+    background-image: url('../League_Details_files/u208_image_sketch.png');
+    position:absolute;
+    left:767px;
+    top:311px;
+    width:146px;
+    height:28px;
+}
+
+.u208 {
+    position:absolute;
+    left:770px;
+    top:314px;
+    width:140px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u208_text_sketch {
+    color: #000000;
+    font-family: 'Myriad Web Pro';
+}
+
+.u209_normal {
+    background-image: url('../League_Details_files/u209_normal.png');
+}
+
+.u209_container {
+    position:absolute;
+    left:0px;
+    top:636px;
+    width:960px;
+    height:220px;
+}
+
+#u209_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:966px;
+    height:226px;
+}
+
+.u210 {
+    position:absolute;
+    left:2px;
+    top:102px;
+    width:956px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u213_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u213_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:109px;
+    height:20px;
+}
+
+#u213_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:115px;
+    height:26px;
+}
+
+.u214 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:104px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u216_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u216_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:40px;
+    height:20px;
+}
+
+#u216_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:26px;
+}
+
+.u217 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:35px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u219_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u219_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:38px;
+    height:20px;
+}
+
+#u219_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:44px;
+    height:26px;
+}
+
+.u220 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:33px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u222_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u222_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:72px;
+    height:20px;
+}
+
+#u222_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:26px;
+}
+
+.u223 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:67px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u225_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u225_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:55px;
+    height:20px;
+}
+
+#u225_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:61px;
+    height:26px;
+}
+
+.u226 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:50px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u229_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u229_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:50px;
+    height:20px;
+}
+
+#u229_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:56px;
+    height:26px;
+}
+
+.u230 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:45px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u232_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u232_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:74px;
+    height:20px;
+}
+
+#u232_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:80px;
+    height:26px;
+}
+
+.u233 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:69px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u235_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u235_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:60px;
+    height:20px;
+}
+
+#u235_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:66px;
+    height:26px;
+}
+
+.u236 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:55px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u238_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u238_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:27px;
+    height:20px;
+}
+
+#u238_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:33px;
+    height:26px;
+}
+
+.u239 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u242_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u242_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:78px;
+    height:20px;
+}
+
+#u242_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:84px;
+    height:26px;
+}
+
+.u243 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:73px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u245_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u245_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:50px;
+    height:20px;
+}
+
+#u245_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:56px;
+    height:26px;
+}
+
+.u246 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:45px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u248_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u248_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:84px;
+    height:20px;
+}
+
+#u248_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:90px;
+    height:26px;
+}
+
+.u249 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:79px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u251_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u251_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:69px;
+    height:20px;
+}
+
+#u251_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:75px;
+    height:26px;
+}
+
+.u252 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:64px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u255_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u255_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:54px;
+    height:20px;
+}
+
+#u255_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:60px;
+    height:26px;
+}
+
+.u256 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:49px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u258_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u258_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:158px;
+    height:20px;
+}
+
+#u258_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:164px;
+    height:26px;
+}
+
+.u259 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:153px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u261_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u261_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:149px;
+    height:20px;
+}
+
+#u261_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:155px;
+    height:26px;
+}
+
+.u262 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:144px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u265_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u265_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:58px;
+    height:20px;
+}
+
+#u265_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:64px;
+    height:26px;
+}
+
+.u266 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:53px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u268_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u268_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:23px;
+    height:20px;
+}
+
+#u268_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:29px;
+    height:26px;
+}
+
+.u269 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:18px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u271_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u271_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:26px;
+    height:20px;
+}
+
+#u271_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:32px;
+    height:26px;
+}
+
+.u272 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:21px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u274_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u274_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:24px;
+    height:20px;
+}
+
+#u274_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:30px;
+    height:26px;
+}
+
+.u275 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:19px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
