@@ -1,0 +1,34 @@
+Version .2
+
+Home
+-Moved logo and navigation to the top of the page
+Contest Lobby
+-Changed all MLB refrences to NFL
+Draft Lobby
+-UpPdated MLB refrences to NFL
+-Added notes for how PPG and Salary are to be temporarily
+-Linked athlete names to athlete profile page 
+-Added Injury iconsgenerated.
+
+Athlete Profile
+-Added Athlete Profile Pagage
+
+Create League(More than one contests)
+-Added section to invite players
+-Removed single and multi radio buttons
+
+Create Game (One Contests)
+-Added section to invite players
+
+Header
+-Added Social media icons
+
+Deposit
+-Added deposit details when payment option is selected
+
+Edit Account
+-Added field for cell number
+
+
+Version .1
+	-Initial Rough Draft

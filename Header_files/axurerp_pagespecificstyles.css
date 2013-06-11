@@ -1615,25 +1615,93 @@ div {
 
 .u96_container {
     position:absolute;
-    left:716px;
-    top:28px;
-    width:14px;
-    height:14px;
+    left:714px;
+    top:26px;
+    width:16px;
+    height:16px;
 }
 
 #u96_img {
     position:absolute;
     left:0px;
     top:0px;
-    width:14px;
-    height:14px;
+    width:16px;
+    height:16px;
 }
 
 .u97 {
     position:absolute;
     left:2px;
-    top:-1px;
-    width:10px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u98_normal {
+    background-image: url('../Header_files/u98_normal.png');
+}
+
+.u98_container {
+    position:absolute;
+    left:690px;
+    top:26px;
+    width:16px;
+    height:16px;
+}
+
+#u98_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u99 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u100_normal {
+    background-image: url('../Header_files/u100_normal.png');
+}
+
+.u100_container {
+    position:absolute;
+    left:664px;
+    top:26px;
+    width:16px;
+    height:16px;
+}
+
+#u100_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u101 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
     height:16px;
     ;
     ;

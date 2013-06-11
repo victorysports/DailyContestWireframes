@@ -1615,25 +1615,25 @@ div {
 
 .u96_container {
     position:absolute;
-    left:716px;
-    top:28px;
-    width:14px;
-    height:14px;
+    left:714px;
+    top:26px;
+    width:16px;
+    height:16px;
 }
 
 #u96_img {
     position:absolute;
     left:0px;
     top:0px;
-    width:14px;
-    height:14px;
+    width:16px;
+    height:16px;
 }
 
 .u97 {
     position:absolute;
     left:2px;
-    top:-1px;
-    width:10px;
+    top:0px;
+    width:12px;
     height:16px;
     ;
     ;
@@ -1643,7 +1643,75 @@ div {
     word-wrap:break-word;
 }
 
+.u98_normal {
+    background-image: url('../League_Details_files/u98_normal.png');
+}
+
+.u98_container {
+    position:absolute;
+    left:690px;
+    top:26px;
+    width:16px;
+    height:16px;
+}
+
+#u98_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
 .u99 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u100_normal {
+    background-image: url('../League_Details_files/u100_normal.png');
+}
+
+.u100_container {
+    position:absolute;
+    left:664px;
+    top:26px;
+    width:16px;
+    height:16px;
+}
+
+#u100_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u101 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u103 {
     position:absolute;
     left:10px;
     top:167px;
@@ -1657,8 +1725,8 @@ div {
     word-wrap:break-word;
 }
 
-.u100_image_sketch {
-    background-image: url('../League_Details_files/u100_image_sketch.png');
+.u104_image_sketch {
+    background-image: url('../League_Details_files/u104_image_sketch.png');
     position:absolute;
     left:847px;
     top:164px;
@@ -1666,7 +1734,7 @@ div {
     height:31px;
 }
 
-.u100 {
+.u104 {
     position:absolute;
     left:850px;
     top:167px;
@@ -1684,13 +1752,13 @@ div {
     
 }
 
-.u100_text_sketch {
+.u104_text_sketch {
     color: #000000;
     font-family: 'Myriad Web Pro';
 }
 
-.u101_image_sketch {
-    background-image: url('../League_Details_files/u101_image_sketch.png');
+.u105_image_sketch {
+    background-image: url('../League_Details_files/u105_image_sketch.png');
     position:absolute;
     left:727px;
     top:164px;
@@ -1698,7 +1766,7 @@ div {
     height:31px;
 }
 
-.u101 {
+.u105 {
     position:absolute;
     left:730px;
     top:167px;
@@ -1716,12 +1784,12 @@ div {
     
 }
 
-.u101_text_sketch {
+.u105_text_sketch {
     color: #000000;
     font-family: 'Myriad Web Pro';
 }
 
-#u102 {
+#u106 {
     position:absolute;
     left:50px;
     top:202px;
@@ -1729,11 +1797,11 @@ div {
     height:97px
 }
 
-.u103_normal {
-    background-image: url('../League_Details_files/u103_normal.png');
+.u107_normal {
+    background-image: url('../League_Details_files/u107_normal.png');
 }
 
-.u103_container {
+.u107_container {
     position:absolute;
     left:0px;
     top:0px;
@@ -1741,7 +1809,7 @@ div {
     height:20px;
 }
 
-#u103_img {
+#u107_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -1749,7 +1817,7 @@ div {
     height:26px;
 }
 
-.u104 {
+.u108 {
     position:absolute;
     left:2px;
     top:2px;
@@ -1763,81 +1831,13 @@ div {
     word-wrap:break-word;
 }
 
-.u105_normal {
-    background-image: url('../League_Details_files/u105_normal.png');
-}
-
-.u105_container {
-    position:absolute;
-    left:250px;
-    top:0px;
-    width:100px;
-    height:20px;
-}
-
-#u105_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:106px;
-    height:26px;
-}
-
-.u106 {
-    position:absolute;
-    left:2px;
-    top:2px;
-    width:96px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u107_normal {
-    background-image: url('../League_Details_files/u105_normal.png');
-}
-
-.u107_container {
-    position:absolute;
-    left:350px;
-    top:0px;
-    width:100px;
-    height:20px;
-}
-
-#u107_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:106px;
-    height:26px;
-}
-
-.u108 {
-    position:absolute;
-    left:2px;
-    top:2px;
-    width:96px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
 .u109_normal {
-    background-image: url('../League_Details_files/u105_normal.png');
+    background-image: url('../League_Details_files/u109_normal.png');
 }
 
 .u109_container {
     position:absolute;
-    left:450px;
+    left:250px;
     top:0px;
     width:100px;
     height:20px;
@@ -1866,14 +1866,14 @@ div {
 }
 
 .u111_normal {
-    background-image: url('../League_Details_files/u111_normal.png');
+    background-image: url('../League_Details_files/u109_normal.png');
 }
 
 .u111_container {
     position:absolute;
-    left:550px;
+    left:350px;
     top:0px;
-    width:310px;
+    width:100px;
     height:20px;
 }
 
@@ -1881,7 +1881,7 @@ div {
     position:absolute;
     left:-3px;
     top:-3px;
-    width:316px;
+    width:106px;
     height:26px;
 }
 
@@ -1889,7 +1889,7 @@ div {
     position:absolute;
     left:2px;
     top:2px;
-    width:306px;
+    width:96px;
     height:16px;
     ;
     ;
@@ -1900,30 +1900,30 @@ div {
 }
 
 .u113_normal {
-    background-image: url('../League_Details_files/u113_normal.png');
+    background-image: url('../League_Details_files/u109_normal.png');
 }
 
 .u113_container {
     position:absolute;
-    left:0px;
-    top:20px;
-    width:250px;
-    height:36px;
+    left:450px;
+    top:0px;
+    width:100px;
+    height:20px;
 }
 
 #u113_img {
     position:absolute;
     left:-3px;
     top:-3px;
-    width:256px;
-    height:42px;
+    width:106px;
+    height:26px;
 }
 
 .u114 {
     position:absolute;
     left:2px;
-    top:10px;
-    width:246px;
+    top:2px;
+    width:96px;
     height:16px;
     ;
     ;
@@ -1939,25 +1939,25 @@ div {
 
 .u115_container {
     position:absolute;
-    left:250px;
-    top:20px;
-    width:100px;
-    height:36px;
+    left:550px;
+    top:0px;
+    width:310px;
+    height:20px;
 }
 
 #u115_img {
     position:absolute;
     left:-3px;
     top:-3px;
-    width:106px;
-    height:42px;
+    width:316px;
+    height:26px;
 }
 
 .u116 {
     position:absolute;
     left:2px;
-    top:10px;
-    width:96px;
+    top:2px;
+    width:306px;
     height:16px;
     ;
     ;
@@ -1968,14 +1968,14 @@ div {
 }
 
 .u117_normal {
-    background-image: url('../League_Details_files/u115_normal.png');
+    background-image: url('../League_Details_files/u117_normal.png');
 }
 
 .u117_container {
     position:absolute;
-    left:350px;
+    left:0px;
     top:20px;
-    width:100px;
+    width:250px;
     height:36px;
 }
 
@@ -1983,7 +1983,7 @@ div {
     position:absolute;
     left:-3px;
     top:-3px;
-    width:106px;
+    width:256px;
     height:42px;
 }
 
@@ -1991,7 +1991,7 @@ div {
     position:absolute;
     left:2px;
     top:10px;
-    width:96px;
+    width:246px;
     height:16px;
     ;
     ;
@@ -2002,12 +2002,12 @@ div {
 }
 
 .u119_normal {
-    background-image: url('../League_Details_files/u115_normal.png');
+    background-image: url('../League_Details_files/u119_normal.png');
 }
 
 .u119_container {
     position:absolute;
-    left:450px;
+    left:250px;
     top:20px;
     width:100px;
     height:36px;
@@ -2036,14 +2036,14 @@ div {
 }
 
 .u121_normal {
-    background-image: url('../League_Details_files/u121_normal.png');
+    background-image: url('../League_Details_files/u119_normal.png');
 }
 
 .u121_container {
     position:absolute;
-    left:550px;
+    left:350px;
     top:20px;
-    width:310px;
+    width:100px;
     height:36px;
 }
 
@@ -2051,11 +2051,79 @@ div {
     position:absolute;
     left:-3px;
     top:-3px;
-    width:316px;
+    width:106px;
     height:42px;
 }
 
 .u122 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u123_normal {
+    background-image: url('../League_Details_files/u119_normal.png');
+}
+
+.u123_container {
+    position:absolute;
+    left:450px;
+    top:20px;
+    width:100px;
+    height:36px;
+}
+
+#u123_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:42px;
+}
+
+.u124 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u125_normal {
+    background-image: url('../League_Details_files/u125_normal.png');
+}
+
+.u125_container {
+    position:absolute;
+    left:550px;
+    top:20px;
+    width:310px;
+    height:36px;
+}
+
+#u125_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:316px;
+    height:42px;
+}
+
+.u126 {
     position:absolute;
     left:2px;
     top:10px;
@@ -2069,11 +2137,11 @@ div {
     word-wrap:break-word;
 }
 
-.u123_normal {
-    background-image: url('../League_Details_files/u113_normal.png');
+.u127_normal {
+    background-image: url('../League_Details_files/u117_normal.png');
 }
 
-.u123_container {
+.u127_container {
     position:absolute;
     left:0px;
     top:56px;
@@ -2081,7 +2149,7 @@ div {
     height:36px;
 }
 
-#u123_img {
+#u127_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -2089,7 +2157,7 @@ div {
     height:42px;
 }
 
-.u124 {
+.u128 {
     position:absolute;
     left:2px;
     top:10px;
@@ -2103,81 +2171,13 @@ div {
     word-wrap:break-word;
 }
 
-.u125_normal {
-    background-image: url('../League_Details_files/u115_normal.png');
-}
-
-.u125_container {
-    position:absolute;
-    left:250px;
-    top:56px;
-    width:100px;
-    height:36px;
-}
-
-#u125_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:106px;
-    height:42px;
-}
-
-.u126 {
-    position:absolute;
-    left:2px;
-    top:10px;
-    width:96px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u127_normal {
-    background-image: url('../League_Details_files/u115_normal.png');
-}
-
-.u127_container {
-    position:absolute;
-    left:350px;
-    top:56px;
-    width:100px;
-    height:36px;
-}
-
-#u127_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:106px;
-    height:42px;
-}
-
-.u128 {
-    position:absolute;
-    left:2px;
-    top:10px;
-    width:96px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
 .u129_normal {
-    background-image: url('../League_Details_files/u115_normal.png');
+    background-image: url('../League_Details_files/u119_normal.png');
 }
 
 .u129_container {
     position:absolute;
-    left:450px;
+    left:250px;
     top:56px;
     width:100px;
     height:36px;
@@ -2206,14 +2206,14 @@ div {
 }
 
 .u131_normal {
-    background-image: url('../League_Details_files/u121_normal.png');
+    background-image: url('../League_Details_files/u119_normal.png');
 }
 
 .u131_container {
     position:absolute;
-    left:550px;
+    left:350px;
     top:56px;
-    width:310px;
+    width:100px;
     height:36px;
 }
 
@@ -2221,11 +2221,79 @@ div {
     position:absolute;
     left:-3px;
     top:-3px;
-    width:316px;
+    width:106px;
     height:42px;
 }
 
 .u132 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u133_normal {
+    background-image: url('../League_Details_files/u119_normal.png');
+}
+
+.u133_container {
+    position:absolute;
+    left:450px;
+    top:56px;
+    width:100px;
+    height:36px;
+}
+
+#u133_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:42px;
+}
+
+.u134 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u135_normal {
+    background-image: url('../League_Details_files/u125_normal.png');
+}
+
+.u135_container {
+    position:absolute;
+    left:550px;
+    top:56px;
+    width:310px;
+    height:36px;
+}
+
+#u135_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:316px;
+    height:42px;
+}
+
+.u136 {
     position:absolute;
     left:2px;
     top:10px;
@@ -2239,8 +2307,8 @@ div {
     word-wrap:break-word;
 }
 
-.u133_image_sketch {
-    background-image: url('../League_Details_files/u133_image_sketch.png');
+.u137_image_sketch {
+    background-image: url('../League_Details_files/u137_image_sketch.png');
     position:absolute;
     left:798px;
     top:226px;
@@ -2248,7 +2316,7 @@ div {
     height:26px;
 }
 
-.u133 {
+.u137 {
     position:absolute;
     left:801px;
     top:229px;
@@ -2266,13 +2334,13 @@ div {
     
 }
 
-.u133_text_sketch {
+.u137_text_sketch {
     color: #000000;
     font-family: 'Myriad Web Pro';
 }
 
-.u134_image_sketch {
-    background-image: url('../League_Details_files/u134_image_sketch.png');
+.u138_image_sketch {
+    background-image: url('../League_Details_files/u138_image_sketch.png');
     position:absolute;
     left:798px;
     top:263px;
@@ -2280,7 +2348,7 @@ div {
     height:26px;
 }
 
-.u134 {
+.u138 {
     position:absolute;
     left:801px;
     top:266px;
@@ -2298,12 +2366,12 @@ div {
     
 }
 
-.u134_text_sketch {
+.u138_text_sketch {
     color: #000000;
     font-family: 'Myriad Web Pro';
 }
 
-.u135 {
+.u139 {
     position:absolute;
     left:50px;
     top:392px;
@@ -2317,66 +2385,10 @@ div {
     word-wrap:break-word;
 }
 
-.u136 {
-    position:absolute;
-    left:50px;
-    top:372px;
-    width:117px;
-    height:14px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u137 {
-    position:absolute;
-    left:172px;
-    top:372px;
-    width:69px;
-    height:15px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u138 {
-    position:absolute;
-    left:485px;
-    top:392px;
-    width:85px;
-    height:14px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u139 {
-    position:absolute;
-    left:50px;
-    top:447px;
-    width:175px;
-    height:15px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
 .u140 {
     position:absolute;
     left:50px;
-    top:427px;
+    top:372px;
     width:117px;
     height:14px;
     ;
@@ -2390,6 +2402,62 @@ div {
 .u141 {
     position:absolute;
     left:172px;
+    top:372px;
+    width:69px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u142 {
+    position:absolute;
+    left:485px;
+    top:392px;
+    width:85px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u143 {
+    position:absolute;
+    left:50px;
+    top:447px;
+    width:175px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u144 {
+    position:absolute;
+    left:50px;
+    top:427px;
+    width:117px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u145 {
+    position:absolute;
+    left:172px;
     top:427px;
     width:74px;
     height:15px;
@@ -2401,7 +2469,7 @@ div {
     word-wrap:break-word;
 }
 
-.u142 {
+.u146 {
     position:absolute;
     left:485px;
     top:447px;
@@ -2415,11 +2483,11 @@ div {
     word-wrap:break-word;
 }
 
-.u143_line {
-    background-image: url('../League_Details_files/u143_line.png');
+.u147_line {
+    background-image: url('../League_Details_files/u147_line.png');
 }
 
-.u143_line {
+.u147_line {
     position:absolute;
     left:0px;
     top:3px;
@@ -2427,7 +2495,7 @@ div {
     height:5px;
 }
 
-.u143 {
+.u147 {
     position:absolute;
     left:50px;
     top:412px;
@@ -2436,7 +2504,7 @@ div {
     
 }
 
-.u144 {
+.u148 {
     position:absolute;
     left:448px;
     top:372px;
@@ -2450,7 +2518,7 @@ div {
     word-wrap:break-word;
 }
 
-.u145 {
+.u149 {
     position:absolute;
     left:448px;
     top:427px;
@@ -2464,7 +2532,7 @@ div {
     word-wrap:break-word;
 }
 
-.u146 {
+.u150 {
     position:absolute;
     left:50px;
     top:347px;
@@ -2478,7 +2546,7 @@ div {
     word-wrap:break-word;
 }
 
-#u147 {
+#u151 {
     position:absolute;
     left:552px;
     top:427px;
@@ -2487,7 +2555,7 @@ div {
     overflow:hidden;
 }
 
-#pd1u147 {
+#pd1u151 {
     position:absolute;
     left:0px;
     top:0px;
@@ -2496,11 +2564,11 @@ div {
     
 }
 
-.u148_normal {
-    background-image: url('../League_Details_files/u148_normal.png');
+.u152_normal {
+    background-image: url('../League_Details_files/u152_normal.png');
 }
 
-.u148_container {
+.u152_container {
     position:absolute;
     left:0px;
     top:0px;
@@ -2508,7 +2576,7 @@ div {
     height:16px;
 }
 
-#u148_img {
+#u152_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -2516,7 +2584,7 @@ div {
     height:16px;
 }
 
-.u149 {
+.u153 {
     position:absolute;
     left:2px;
     top:0px;
@@ -2530,7 +2598,7 @@ div {
     word-wrap:break-word;
 }
 
-#pd0u147 {
+#pd0u151 {
     position:absolute;
     left:0px;
     top:0px;
@@ -2539,11 +2607,11 @@ div {
     
 }
 
-.u150_normal {
-    background-image: url('../League_Details_files/u150_normal.png');
+.u154_normal {
+    background-image: url('../League_Details_files/u154_normal.png');
 }
 
-.u150_container {
+.u154_container {
     position:absolute;
     left:0px;
     top:0px;
@@ -2551,7 +2619,7 @@ div {
     height:16px;
 }
 
-#u150_img {
+#u154_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -2559,7 +2627,7 @@ div {
     height:16px;
 }
 
-.u151 {
+.u155 {
     position:absolute;
     left:2px;
     top:0px;
@@ -2573,7 +2641,7 @@ div {
     word-wrap:break-word;
 }
 
-#u152 {
+#u156 {
     position:absolute;
     left:532px;
     top:427px;
@@ -2582,7 +2650,7 @@ div {
     overflow:hidden;
 }
 
-#pd1u152 {
+#pd1u156 {
     position:absolute;
     left:0px;
     top:0px;
@@ -2591,11 +2659,11 @@ div {
     
 }
 
-.u153_normal {
-    background-image: url('../League_Details_files/u153_normal.png');
+.u157_normal {
+    background-image: url('../League_Details_files/u157_normal.png');
 }
 
-.u153_container {
+.u157_container {
     position:absolute;
     left:0px;
     top:0px;
@@ -2603,7 +2671,7 @@ div {
     height:16px;
 }
 
-#u153_img {
+#u157_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -2611,7 +2679,7 @@ div {
     height:16px;
 }
 
-.u154 {
+.u158 {
     position:absolute;
     left:2px;
     top:0px;
@@ -2625,59 +2693,7 @@ div {
     word-wrap:break-word;
 }
 
-#pd0u152 {
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:17px;
-    height:17px;
-    
-}
-
-.u155_normal {
-    background-image: url('../League_Details_files/u155_normal.png');
-}
-
-.u155_container {
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:16px;
-    height:16px;
-}
-
-#u155_img {
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:16px;
-    height:16px;
-}
-
-.u156 {
-    position:absolute;
-    left:2px;
-    top:0px;
-    width:12px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-#u158 {
-    position:absolute;
-    left:552px;
-    top:372px;
-    width:17px;
-    height:17px;
-    overflow:hidden;
-}
-
-#pd1u158 {
+#pd0u156 {
     position:absolute;
     left:0px;
     top:0px;
@@ -2687,7 +2703,7 @@ div {
 }
 
 .u159_normal {
-    background-image: url('../League_Details_files/u148_normal.png');
+    background-image: url('../League_Details_files/u159_normal.png');
 }
 
 .u159_container {
@@ -2720,7 +2736,16 @@ div {
     word-wrap:break-word;
 }
 
-#pd0u158 {
+#u162 {
+    position:absolute;
+    left:552px;
+    top:372px;
+    width:17px;
+    height:17px;
+    overflow:hidden;
+}
+
+#pd1u162 {
     position:absolute;
     left:0px;
     top:0px;
@@ -2729,11 +2754,11 @@ div {
     
 }
 
-.u161_normal {
-    background-image: url('../League_Details_files/u150_normal.png');
+.u163_normal {
+    background-image: url('../League_Details_files/u152_normal.png');
 }
 
-.u161_container {
+.u163_container {
     position:absolute;
     left:0px;
     top:0px;
@@ -2741,7 +2766,7 @@ div {
     height:16px;
 }
 
-#u161_img {
+#u163_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -2749,7 +2774,7 @@ div {
     height:16px;
 }
 
-.u162 {
+.u164 {
     position:absolute;
     left:2px;
     top:0px;
@@ -2763,7 +2788,50 @@ div {
     word-wrap:break-word;
 }
 
-#u163 {
+#pd0u162 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:17px;
+    height:17px;
+    
+}
+
+.u165_normal {
+    background-image: url('../League_Details_files/u154_normal.png');
+}
+
+.u165_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+#u165_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u166 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u167 {
     position:absolute;
     left:532px;
     top:372px;
@@ -2772,7 +2840,7 @@ div {
     overflow:hidden;
 }
 
-#pd1u163 {
+#pd1u167 {
     position:absolute;
     left:0px;
     top:0px;
@@ -2781,11 +2849,11 @@ div {
     
 }
 
-.u164_normal {
-    background-image: url('../League_Details_files/u153_normal.png');
+.u168_normal {
+    background-image: url('../League_Details_files/u157_normal.png');
 }
 
-.u164_container {
+.u168_container {
     position:absolute;
     left:0px;
     top:0px;
@@ -2793,7 +2861,7 @@ div {
     height:16px;
 }
 
-#u164_img {
+#u168_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -2801,7 +2869,7 @@ div {
     height:16px;
 }
 
-.u165 {
+.u169 {
     position:absolute;
     left:2px;
     top:0px;
@@ -2815,7 +2883,7 @@ div {
     word-wrap:break-word;
 }
 
-#pd0u163 {
+#pd0u167 {
     position:absolute;
     left:0px;
     top:0px;
@@ -2824,11 +2892,11 @@ div {
     
 }
 
-.u166_normal {
-    background-image: url('../League_Details_files/u155_normal.png');
+.u170_normal {
+    background-image: url('../League_Details_files/u159_normal.png');
 }
 
-.u166_container {
+.u170_container {
     position:absolute;
     left:0px;
     top:0px;
@@ -2836,7 +2904,7 @@ div {
     height:16px;
 }
 
-#u166_img {
+#u170_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -2844,7 +2912,7 @@ div {
     height:16px;
 }
 
-.u167 {
+.u171 {
     position:absolute;
     left:2px;
     top:0px;
@@ -2858,7 +2926,7 @@ div {
     word-wrap:break-word;
 }
 
-.u170 {
+.u174 {
     position:absolute;
     left:50px;
     top:486px;
@@ -2872,8 +2940,8 @@ div {
     word-wrap:break-word;
 }
 
-.u171_image_sketch {
-    background-image: url('../League_Details_files/u171_image_sketch.png');
+.u175_image_sketch {
+    background-image: url('../League_Details_files/u175_image_sketch.png');
     position:absolute;
     left:47px;
     top:514px;
@@ -2881,7 +2949,7 @@ div {
     height:67px;
 }
 
-.u171 {
+.u175 {
     position:absolute;
     left:50px;
     top:517px;
@@ -2899,13 +2967,13 @@ div {
     
 }
 
-.u171_text_sketch {
+.u175_text_sketch {
     color: #000000;
     font-family: 'Myriad Web Pro';
 }
 
-.u172_image_sketch {
-    background-image: url('../League_Details_files/u172_image_sketch.png');
+.u176_image_sketch {
+    background-image: url('../League_Details_files/u176_image_sketch.png');
     position:absolute;
     left:447px;
     top:585px;
@@ -2913,7 +2981,7 @@ div {
     height:31px;
 }
 
-.u172 {
+.u176 {
     position:absolute;
     left:450px;
     top:588px;
@@ -2931,12 +2999,12 @@ div {
     
 }
 
-.u172_text_sketch {
+.u176_text_sketch {
     color: #000000;
     font-family: 'Myriad Web Pro';
 }
 
-.u173 {
+.u177 {
     position:absolute;
     left:10px;
     top:313px;
@@ -2950,7 +3018,7 @@ div {
     word-wrap:break-word;
 }
 
-.u174 {
+.u178 {
     position:absolute;
     left:610px;
     top:313px;
@@ -2964,80 +3032,12 @@ div {
     word-wrap:break-word;
 }
 
-#u175 {
+#u179 {
     position:absolute;
     left:610px;
     top:347px;
     width:305px;
     height:235px
-}
-
-.u176_normal {
-    background-image: url('../League_Details_files/u176_normal.png');
-}
-
-.u176_container {
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:75px;
-    height:20px;
-}
-
-#u176_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:81px;
-    height:26px;
-}
-
-.u177 {
-    position:absolute;
-    left:2px;
-    top:2px;
-    width:71px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u178_normal {
-    background-image: url('../League_Details_files/u178_normal.png');
-}
-
-.u178_container {
-    position:absolute;
-    left:75px;
-    top:0px;
-    width:225px;
-    height:20px;
-}
-
-#u178_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:231px;
-    height:26px;
-}
-
-.u179 {
-    position:absolute;
-    left:2px;
-    top:2px;
-    width:221px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
 }
 
 .u180_normal {
@@ -3047,9 +3047,9 @@ div {
 .u180_container {
     position:absolute;
     left:0px;
-    top:20px;
+    top:0px;
     width:75px;
-    height:30px;
+    height:20px;
 }
 
 #u180_img {
@@ -3057,13 +3057,13 @@ div {
     left:-3px;
     top:-3px;
     width:81px;
-    height:36px;
+    height:26px;
 }
 
 .u181 {
     position:absolute;
     left:2px;
-    top:7px;
+    top:2px;
     width:71px;
     height:16px;
     ;
@@ -3081,9 +3081,9 @@ div {
 .u182_container {
     position:absolute;
     left:75px;
-    top:20px;
+    top:0px;
     width:225px;
-    height:30px;
+    height:20px;
 }
 
 #u182_img {
@@ -3091,13 +3091,13 @@ div {
     left:-3px;
     top:-3px;
     width:231px;
-    height:36px;
+    height:26px;
 }
 
 .u183 {
     position:absolute;
     left:2px;
-    top:7px;
+    top:2px;
     width:221px;
     height:16px;
     ;
@@ -3109,13 +3109,13 @@ div {
 }
 
 .u184_normal {
-    background-image: url('../League_Details_files/u180_normal.png');
+    background-image: url('../League_Details_files/u184_normal.png');
 }
 
 .u184_container {
     position:absolute;
     left:0px;
-    top:50px;
+    top:20px;
     width:75px;
     height:30px;
 }
@@ -3143,13 +3143,13 @@ div {
 }
 
 .u186_normal {
-    background-image: url('../League_Details_files/u182_normal.png');
+    background-image: url('../League_Details_files/u186_normal.png');
 }
 
 .u186_container {
     position:absolute;
     left:75px;
-    top:50px;
+    top:20px;
     width:225px;
     height:30px;
 }
@@ -3177,13 +3177,13 @@ div {
 }
 
 .u188_normal {
-    background-image: url('../League_Details_files/u180_normal.png');
+    background-image: url('../League_Details_files/u184_normal.png');
 }
 
 .u188_container {
     position:absolute;
     left:0px;
-    top:80px;
+    top:50px;
     width:75px;
     height:30px;
 }
@@ -3211,13 +3211,13 @@ div {
 }
 
 .u190_normal {
-    background-image: url('../League_Details_files/u182_normal.png');
+    background-image: url('../League_Details_files/u186_normal.png');
 }
 
 .u190_container {
     position:absolute;
     left:75px;
-    top:80px;
+    top:50px;
     width:225px;
     height:30px;
 }
@@ -3245,13 +3245,13 @@ div {
 }
 
 .u192_normal {
-    background-image: url('../League_Details_files/u180_normal.png');
+    background-image: url('../League_Details_files/u184_normal.png');
 }
 
 .u192_container {
     position:absolute;
     left:0px;
-    top:110px;
+    top:80px;
     width:75px;
     height:30px;
 }
@@ -3279,13 +3279,13 @@ div {
 }
 
 .u194_normal {
-    background-image: url('../League_Details_files/u182_normal.png');
+    background-image: url('../League_Details_files/u186_normal.png');
 }
 
 .u194_container {
     position:absolute;
     left:75px;
-    top:110px;
+    top:80px;
     width:225px;
     height:30px;
 }
@@ -3313,13 +3313,13 @@ div {
 }
 
 .u196_normal {
-    background-image: url('../League_Details_files/u180_normal.png');
+    background-image: url('../League_Details_files/u184_normal.png');
 }
 
 .u196_container {
     position:absolute;
     left:0px;
-    top:140px;
+    top:110px;
     width:75px;
     height:30px;
 }
@@ -3347,13 +3347,13 @@ div {
 }
 
 .u198_normal {
-    background-image: url('../League_Details_files/u182_normal.png');
+    background-image: url('../League_Details_files/u186_normal.png');
 }
 
 .u198_container {
     position:absolute;
     left:75px;
-    top:140px;
+    top:110px;
     width:225px;
     height:30px;
 }
@@ -3381,13 +3381,13 @@ div {
 }
 
 .u200_normal {
-    background-image: url('../League_Details_files/u180_normal.png');
+    background-image: url('../League_Details_files/u184_normal.png');
 }
 
 .u200_container {
     position:absolute;
     left:0px;
-    top:170px;
+    top:140px;
     width:75px;
     height:30px;
 }
@@ -3415,13 +3415,13 @@ div {
 }
 
 .u202_normal {
-    background-image: url('../League_Details_files/u182_normal.png');
+    background-image: url('../League_Details_files/u186_normal.png');
 }
 
 .u202_container {
     position:absolute;
     left:75px;
-    top:170px;
+    top:140px;
     width:225px;
     height:30px;
 }
@@ -3449,13 +3449,13 @@ div {
 }
 
 .u204_normal {
-    background-image: url('../League_Details_files/u180_normal.png');
+    background-image: url('../League_Details_files/u184_normal.png');
 }
 
 .u204_container {
     position:absolute;
     left:0px;
-    top:200px;
+    top:170px;
     width:75px;
     height:30px;
 }
@@ -3483,13 +3483,13 @@ div {
 }
 
 .u206_normal {
-    background-image: url('../League_Details_files/u182_normal.png');
+    background-image: url('../League_Details_files/u186_normal.png');
 }
 
 .u206_container {
     position:absolute;
     left:75px;
-    top:200px;
+    top:170px;
     width:225px;
     height:30px;
 }
@@ -3516,8 +3516,76 @@ div {
     word-wrap:break-word;
 }
 
-.u208_image_sketch {
-    background-image: url('../League_Details_files/u208_image_sketch.png');
+.u208_normal {
+    background-image: url('../League_Details_files/u184_normal.png');
+}
+
+.u208_container {
+    position:absolute;
+    left:0px;
+    top:200px;
+    width:75px;
+    height:30px;
+}
+
+#u208_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:36px;
+}
+
+.u209 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u210_normal {
+    background-image: url('../League_Details_files/u186_normal.png');
+}
+
+.u210_container {
+    position:absolute;
+    left:75px;
+    top:200px;
+    width:225px;
+    height:30px;
+}
+
+#u210_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:231px;
+    height:36px;
+}
+
+.u211 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:221px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u212_image_sketch {
+    background-image: url('../League_Details_files/u212_image_sketch.png');
     position:absolute;
     left:767px;
     top:311px;
@@ -3525,7 +3593,7 @@ div {
     height:28px;
 }
 
-.u208 {
+.u212 {
     position:absolute;
     left:770px;
     top:314px;
@@ -3543,16 +3611,16 @@ div {
     
 }
 
-.u208_text_sketch {
+.u212_text_sketch {
     color: #000000;
     font-family: 'Myriad Web Pro';
 }
 
-.u209_normal {
-    background-image: url('../League_Details_files/u209_normal.png');
+.u213_normal {
+    background-image: url('../League_Details_files/u213_normal.png');
 }
 
-.u209_container {
+.u213_container {
     position:absolute;
     left:0px;
     top:636px;
@@ -3560,7 +3628,7 @@ div {
     height:220px;
 }
 
-#u209_img {
+#u213_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -3568,7 +3636,7 @@ div {
     height:226px;
 }
 
-.u210 {
+.u214 {
     position:absolute;
     left:2px;
     top:102px;
@@ -3582,11 +3650,11 @@ div {
     word-wrap:break-word;
 }
 
-.u213_normal {
+.u217_normal {
     background-image: url('../resources/images/transparent.gif');
 }
 
-.u213_container {
+.u217_container {
     position:absolute;
     left:2px;
     top:0px;
@@ -3594,7 +3662,7 @@ div {
     height:20px;
 }
 
-#u213_img {
+#u217_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -3602,7 +3670,7 @@ div {
     height:26px;
 }
 
-.u214 {
+.u218 {
     position:absolute;
     left:3px;
     top:2px;
@@ -3616,11 +3684,11 @@ div {
     white-space:nowrap;
 }
 
-.u216_normal {
+.u220_normal {
     background-image: url('../resources/images/transparent.gif');
 }
 
-.u216_container {
+.u220_container {
     position:absolute;
     left:2px;
     top:0px;
@@ -3628,7 +3696,7 @@ div {
     height:20px;
 }
 
-#u216_img {
+#u220_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -3636,7 +3704,7 @@ div {
     height:26px;
 }
 
-.u217 {
+.u221 {
     position:absolute;
     left:3px;
     top:2px;
@@ -3650,11 +3718,11 @@ div {
     white-space:nowrap;
 }
 
-.u219_normal {
+.u223_normal {
     background-image: url('../resources/images/transparent.gif');
 }
 
-.u219_container {
+.u223_container {
     position:absolute;
     left:2px;
     top:0px;
@@ -3662,7 +3730,7 @@ div {
     height:20px;
 }
 
-#u219_img {
+#u223_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -3670,7 +3738,7 @@ div {
     height:26px;
 }
 
-.u220 {
+.u224 {
     position:absolute;
     left:3px;
     top:2px;
@@ -3684,11 +3752,11 @@ div {
     white-space:nowrap;
 }
 
-.u222_normal {
+.u226_normal {
     background-image: url('../resources/images/transparent.gif');
 }
 
-.u222_container {
+.u226_container {
     position:absolute;
     left:2px;
     top:0px;
@@ -3696,7 +3764,7 @@ div {
     height:20px;
 }
 
-#u222_img {
+#u226_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -3704,45 +3772,11 @@ div {
     height:26px;
 }
 
-.u223 {
+.u227 {
     position:absolute;
     left:3px;
     top:2px;
     width:67px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    white-space:nowrap;
-}
-
-.u225_normal {
-    background-image: url('../resources/images/transparent.gif');
-}
-
-.u225_container {
-    position:absolute;
-    left:2px;
-    top:0px;
-    width:55px;
-    height:20px;
-}
-
-#u225_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:61px;
-    height:26px;
-}
-
-.u226 {
-    position:absolute;
-    left:3px;
-    top:2px;
-    width:50px;
     height:16px;
     ;
     ;
@@ -3760,7 +3794,7 @@ div {
     position:absolute;
     left:2px;
     top:0px;
-    width:50px;
+    width:55px;
     height:20px;
 }
 
@@ -3768,11 +3802,45 @@ div {
     position:absolute;
     left:-3px;
     top:-3px;
-    width:56px;
+    width:61px;
     height:26px;
 }
 
 .u230 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:50px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u233_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u233_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:50px;
+    height:20px;
+}
+
+#u233_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:56px;
+    height:26px;
+}
+
+.u234 {
     position:absolute;
     left:3px;
     top:2px;
@@ -3786,11 +3854,11 @@ div {
     white-space:nowrap;
 }
 
-.u232_normal {
+.u236_normal {
     background-image: url('../resources/images/transparent.gif');
 }
 
-.u232_container {
+.u236_container {
     position:absolute;
     left:2px;
     top:0px;
@@ -3798,7 +3866,7 @@ div {
     height:20px;
 }
 
-#u232_img {
+#u236_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -3806,7 +3874,7 @@ div {
     height:26px;
 }
 
-.u233 {
+.u237 {
     position:absolute;
     left:3px;
     top:2px;
@@ -3820,11 +3888,11 @@ div {
     white-space:nowrap;
 }
 
-.u235_normal {
+.u239_normal {
     background-image: url('../resources/images/transparent.gif');
 }
 
-.u235_container {
+.u239_container {
     position:absolute;
     left:2px;
     top:0px;
@@ -3832,7 +3900,7 @@ div {
     height:20px;
 }
 
-#u235_img {
+#u239_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -3840,45 +3908,11 @@ div {
     height:26px;
 }
 
-.u236 {
+.u240 {
     position:absolute;
     left:3px;
     top:2px;
     width:55px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    white-space:nowrap;
-}
-
-.u238_normal {
-    background-image: url('../resources/images/transparent.gif');
-}
-
-.u238_container {
-    position:absolute;
-    left:2px;
-    top:0px;
-    width:27px;
-    height:20px;
-}
-
-#u238_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:33px;
-    height:26px;
-}
-
-.u239 {
-    position:absolute;
-    left:3px;
-    top:2px;
-    width:22px;
     height:16px;
     ;
     ;
@@ -3896,7 +3930,7 @@ div {
     position:absolute;
     left:2px;
     top:0px;
-    width:78px;
+    width:27px;
     height:20px;
 }
 
@@ -3904,11 +3938,45 @@ div {
     position:absolute;
     left:-3px;
     top:-3px;
-    width:84px;
+    width:33px;
     height:26px;
 }
 
 .u243 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u246_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u246_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:78px;
+    height:20px;
+}
+
+#u246_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:84px;
+    height:26px;
+}
+
+.u247 {
     position:absolute;
     left:3px;
     top:2px;
@@ -3922,11 +3990,11 @@ div {
     white-space:nowrap;
 }
 
-.u245_normal {
+.u249_normal {
     background-image: url('../resources/images/transparent.gif');
 }
 
-.u245_container {
+.u249_container {
     position:absolute;
     left:2px;
     top:0px;
@@ -3934,7 +4002,7 @@ div {
     height:20px;
 }
 
-#u245_img {
+#u249_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -3942,7 +4010,7 @@ div {
     height:26px;
 }
 
-.u246 {
+.u250 {
     position:absolute;
     left:3px;
     top:2px;
@@ -3956,11 +4024,11 @@ div {
     white-space:nowrap;
 }
 
-.u248_normal {
+.u252_normal {
     background-image: url('../resources/images/transparent.gif');
 }
 
-.u248_container {
+.u252_container {
     position:absolute;
     left:2px;
     top:0px;
@@ -3968,7 +4036,7 @@ div {
     height:20px;
 }
 
-#u248_img {
+#u252_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -3976,45 +4044,11 @@ div {
     height:26px;
 }
 
-.u249 {
+.u253 {
     position:absolute;
     left:3px;
     top:2px;
     width:79px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    white-space:nowrap;
-}
-
-.u251_normal {
-    background-image: url('../resources/images/transparent.gif');
-}
-
-.u251_container {
-    position:absolute;
-    left:2px;
-    top:0px;
-    width:69px;
-    height:20px;
-}
-
-#u251_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:75px;
-    height:26px;
-}
-
-.u252 {
-    position:absolute;
-    left:3px;
-    top:2px;
-    width:64px;
     height:16px;
     ;
     ;
@@ -4032,7 +4066,7 @@ div {
     position:absolute;
     left:2px;
     top:0px;
-    width:54px;
+    width:69px;
     height:20px;
 }
 
@@ -4040,11 +4074,45 @@ div {
     position:absolute;
     left:-3px;
     top:-3px;
-    width:60px;
+    width:75px;
     height:26px;
 }
 
 .u256 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:64px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u259_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u259_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:54px;
+    height:20px;
+}
+
+#u259_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:60px;
+    height:26px;
+}
+
+.u260 {
     position:absolute;
     left:3px;
     top:2px;
@@ -4058,11 +4126,11 @@ div {
     white-space:nowrap;
 }
 
-.u258_normal {
+.u262_normal {
     background-image: url('../resources/images/transparent.gif');
 }
 
-.u258_container {
+.u262_container {
     position:absolute;
     left:2px;
     top:0px;
@@ -4070,7 +4138,7 @@ div {
     height:20px;
 }
 
-#u258_img {
+#u262_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -4078,45 +4146,11 @@ div {
     height:26px;
 }
 
-.u259 {
+.u263 {
     position:absolute;
     left:3px;
     top:2px;
     width:153px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    white-space:nowrap;
-}
-
-.u261_normal {
-    background-image: url('../resources/images/transparent.gif');
-}
-
-.u261_container {
-    position:absolute;
-    left:2px;
-    top:0px;
-    width:149px;
-    height:20px;
-}
-
-#u261_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:155px;
-    height:26px;
-}
-
-.u262 {
-    position:absolute;
-    left:3px;
-    top:2px;
-    width:144px;
     height:16px;
     ;
     ;
@@ -4134,7 +4168,7 @@ div {
     position:absolute;
     left:2px;
     top:0px;
-    width:58px;
+    width:149px;
     height:20px;
 }
 
@@ -4142,11 +4176,45 @@ div {
     position:absolute;
     left:-3px;
     top:-3px;
-    width:64px;
+    width:155px;
     height:26px;
 }
 
 .u266 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:144px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u269_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u269_container {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:58px;
+    height:20px;
+}
+
+#u269_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:64px;
+    height:26px;
+}
+
+.u270 {
     position:absolute;
     left:3px;
     top:2px;
@@ -4160,11 +4228,11 @@ div {
     white-space:nowrap;
 }
 
-.u268_normal {
+.u272_normal {
     background-image: url('../resources/images/transparent.gif');
 }
 
-.u268_container {
+.u272_container {
     position:absolute;
     left:2px;
     top:0px;
@@ -4172,7 +4240,7 @@ div {
     height:20px;
 }
 
-#u268_img {
+#u272_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -4180,7 +4248,7 @@ div {
     height:26px;
 }
 
-.u269 {
+.u273 {
     position:absolute;
     left:3px;
     top:2px;
@@ -4194,11 +4262,11 @@ div {
     white-space:nowrap;
 }
 
-.u271_normal {
+.u275_normal {
     background-image: url('../resources/images/transparent.gif');
 }
 
-.u271_container {
+.u275_container {
     position:absolute;
     left:2px;
     top:0px;
@@ -4206,7 +4274,7 @@ div {
     height:20px;
 }
 
-#u271_img {
+#u275_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -4214,7 +4282,7 @@ div {
     height:26px;
 }
 
-.u272 {
+.u276 {
     position:absolute;
     left:3px;
     top:2px;
@@ -4228,11 +4296,11 @@ div {
     white-space:nowrap;
 }
 
-.u274_normal {
+.u278_normal {
     background-image: url('../resources/images/transparent.gif');
 }
 
-.u274_container {
+.u278_container {
     position:absolute;
     left:2px;
     top:0px;
@@ -4240,7 +4308,7 @@ div {
     height:20px;
 }
 
-#u274_img {
+#u278_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -4248,7 +4316,7 @@ div {
     height:26px;
 }
 
-.u275 {
+.u279 {
     position:absolute;
     left:3px;
     top:2px;

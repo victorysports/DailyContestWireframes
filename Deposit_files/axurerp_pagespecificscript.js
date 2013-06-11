@@ -1,10 +1,20 @@
-﻿for(var i = 0; i < 195; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
+﻿for(var i = 0; i < 249; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
 
 $axure.eventManager.pageLoad(
 function (e) {
 
 });
-gv_vAlignTable['u156'] = 'center';gv_vAlignTable['u45'] = 'top';document.getElementById('u79_img').tabIndex = 0;
+
+u122.style.cursor = 'pointer';
+$axure.eventManager.click('u122', function(e) {
+
+if (true) {
+
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('Games.html');
+
+}
+});
+gv_vAlignTable['u224'] = 'top';gv_vAlignTable['u156'] = 'center';gv_vAlignTable['u207'] = 'top';gv_vAlignTable['u45'] = 'top';document.getElementById('u79_img').tabIndex = 0;
 
 u79.style.cursor = 'pointer';
 $axure.eventManager.click('u79', function(e) {
@@ -26,7 +36,17 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u17'] = 'top';gv_vAlignTable['u159'] = 'center';gv_vAlignTable['u186'] = 'top';document.getElementById('u48_img').tabIndex = 0;
+gv_vAlignTable['u17'] = 'top';gv_vAlignTable['u222'] = 'top';gv_vAlignTable['u203'] = 'top';
+u186.style.cursor = 'pointer';
+$axure.eventManager.click('u186', function(e) {
+
+if (true) {
+
+	SetPanelState('u199', 'pd0u199','none','',500,'none','',500);
+
+}
+});
+document.getElementById('u48_img').tabIndex = 0;
 
 u48.style.cursor = 'pointer';
 $axure.eventManager.click('u48', function(e) {
@@ -37,28 +57,17 @@ if (true) {
 
 }
 });
-
-u105.style.cursor = 'pointer';
-$axure.eventManager.click('u105', function(e) {
-
-if (true) {
-
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('About.html');
-
-}
-});
-document.getElementById('u8_img').tabIndex = 0;
-
-u8.style.cursor = 'pointer';
-$axure.eventManager.click('u8', function(e) {
+gv_vAlignTable['u27'] = 'top';gv_vAlignTable['u52'] = 'center';
+u181.style.cursor = 'pointer';
+$axure.eventManager.click('u181', function(e) {
 
 if (true) {
 
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('Promotions.html');
+	SetPanelState('u199', 'pd0u199','none','',500,'none','',500);
 
 }
 });
-gv_vAlignTable['u27'] = 'top';gv_vAlignTable['u52'] = 'center';gv_vAlignTable['u181'] = 'top';gv_vAlignTable['u110'] = 'center';document.getElementById('u2_img').tabIndex = 0;
+gv_vAlignTable['u236'] = 'top';document.getElementById('u2_img').tabIndex = 0;
 
 u2.style.cursor = 'pointer';
 $axure.eventManager.click('u2', function(e) {
@@ -80,17 +89,7 @@ if (true) {
 
 }
 });
-
-u108.style.cursor = 'pointer';
-$axure.eventManager.click('u108', function(e) {
-
-if (true) {
-
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('News.html');
-
-}
-});
-gv_vAlignTable['u37'] = 'top';document.getElementById('u30_img').tabIndex = 0;
+gv_vAlignTable['u205'] = 'top';gv_vAlignTable['u108'] = 'center';gv_vAlignTable['u37'] = 'top';gv_vAlignTable['u238'] = 'top';document.getElementById('u30_img').tabIndex = 0;
 
 u30.style.cursor = 'pointer';
 $axure.eventManager.click('u30', function(e) {
@@ -101,14 +100,14 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u62'] = 'top';gv_vAlignTable['u113'] = 'center';gv_vAlignTable['u21'] = 'top';document.getElementById('u75_img').tabIndex = 0;
+gv_vAlignTable['u62'] = 'top';gv_vAlignTable['u21'] = 'top';document.getElementById('u8_img').tabIndex = 0;
 
-u75.style.cursor = 'pointer';
-$axure.eventManager.click('u75', function(e) {
+u8.style.cursor = 'pointer';
+$axure.eventManager.click('u8', function(e) {
 
 if (true) {
 
-    self.location.href="resources/reload.html#" + encodeURI($axure.globalVariableProvider.getLinkUrl($axure.pageData.url));
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('Promotions.html');
 
 }
 });
@@ -123,7 +122,27 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u7'] = 'top';gv_vAlignTable['u176'] = 'top';gv_vAlignTable['u47'] = 'top';gv_vAlignTable['u184'] = 'center';gv_vAlignTable['u72'] = 'top';gv_vAlignTable['u31'] = 'top';gv_vAlignTable['u146'] = 'center';document.getElementById('u44_img').tabIndex = 0;
+gv_vAlignTable['u7'] = 'top';
+u176.style.cursor = 'pointer';
+$axure.eventManager.click('u176', function(e) {
+
+if (true) {
+
+	SetPanelState('u199', 'pd0u199','none','',500,'none','',500);
+
+}
+});
+gv_vAlignTable['u208'] = 'top';gv_vAlignTable['u47'] = 'top';gv_vAlignTable['u184'] = 'top';
+u216.style.cursor = 'pointer';
+$axure.eventManager.click('u216', function(e) {
+
+if (true) {
+
+	SetPanelState('u199', 'pd2u199','none','',500,'none','',500);
+
+}
+});
+gv_vAlignTable['u72'] = 'top';gv_vAlignTable['u31'] = 'top';gv_vAlignTable['u146'] = 'center';gv_vAlignTable['u220'] = 'top';document.getElementById('u44_img').tabIndex = 0;
 
 u44.style.cursor = 'pointer';
 $axure.eventManager.click('u44', function(e) {
@@ -134,7 +153,67 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u179'] = 'center';gv_vAlignTable['u23'] = 'top';gv_vAlignTable['u41'] = 'top';gv_vAlignTable['u149'] = 'center';
+gv_vAlignTable['u179'] = 'top';gv_vAlignTable['u242'] = 'top';gv_vAlignTable['u23'] = 'top';
+u131.style.cursor = 'pointer';
+$axure.eventManager.click('u131', function(e) {
+
+if (true) {
+
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('Tier.html');
+
+}
+});
+
+u212.style.cursor = 'pointer';
+$axure.eventManager.click('u212', function(e) {
+
+if (true) {
+
+	SetPanelState('u199', 'pd0u199','none','',500,'none','',500);
+
+}
+});
+
+u125.style.cursor = 'pointer';
+$axure.eventManager.click('u125', function(e) {
+
+if (true) {
+
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('Snake_Draft.html');
+
+}
+});
+
+u202.style.cursor = 'pointer';
+$axure.eventManager.click('u202', function(e) {
+
+if (true) {
+
+	SetPanelState('u199', 'pd0u199','none','',500,'none','',500);
+
+}
+});
+gv_vAlignTable['u41'] = 'top';
+u221.style.cursor = 'pointer';
+$axure.eventManager.click('u221', function(e) {
+
+if (true) {
+
+	SetPanelState('u199', 'pd1u199','none','',500,'none','',500);
+
+}
+});
+gv_vAlignTable['u246'] = 'top';
+u195.style.cursor = 'pointer';
+$axure.eventManager.click('u195', function(e) {
+
+if (true) {
+
+	SetPanelState('u199', 'pd0u199','none','',500,'none','',500);
+
+}
+});
+
 $axure.eventManager.mouseover('u67', function(e) {
 if (!IsTrueMouseOver('u67',e)) return;
 if (true) {
@@ -143,7 +222,7 @@ if (true) {
 
 }
 });
-document.getElementById('u26_img').tabIndex = 0;
+gv_vAlignTable['u173'] = 'center';document.getElementById('u26_img').tabIndex = 0;
 
 u26.style.cursor = 'pointer';
 $axure.eventManager.click('u26', function(e) {
@@ -154,7 +233,17 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u174'] = 'center';document.getElementById('u10_img').tabIndex = 0;
+gv_vAlignTable['u174'] = 'top';gv_vAlignTable['u225'] = 'top';
+u128.style.cursor = 'pointer';
+$axure.eventManager.click('u128', function(e) {
+
+if (true) {
+
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('Pick_Em_.html');
+
+}
+});
+gv_vAlignTable['u99'] = 'center';document.getElementById('u10_img').tabIndex = 0;
 
 u10.style.cursor = 'pointer';
 $axure.eventManager.click('u10', function(e) {
@@ -183,7 +272,7 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u82'] = 'top';gv_vAlignTable['u95'] = 'top';document.getElementById('u61_img').tabIndex = 0;
+gv_vAlignTable['u82'] = 'top';gv_vAlignTable['u101'] = 'center';gv_vAlignTable['u95'] = 'top';document.getElementById('u61_img').tabIndex = 0;
 
 u61.style.cursor = 'pointer';
 $axure.eventManager.click('u61', function(e) {
@@ -194,17 +283,18 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u180'] = 'top';gv_vAlignTable['u74'] = 'top';
-u114.style.cursor = 'pointer';
-$axure.eventManager.click('u114', function(e) {
+document.getElementById('u75_img').tabIndex = 0;
+
+u75.style.cursor = 'pointer';
+$axure.eventManager.click('u75', function(e) {
 
 if (true) {
 
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('Affiliates.html');
+    self.location.href="resources/reload.html#" + encodeURI($axure.globalVariableProvider.getLinkUrl($axure.pageData.url));
 
 }
 });
-document.getElementById('u92_img').tabIndex = 0;
+gv_vAlignTable['u143'] = 'center';gv_vAlignTable['u240'] = 'top';gv_vAlignTable['u180'] = 'top';gv_vAlignTable['u74'] = 'top';gv_vAlignTable['u114'] = 'center';gv_vAlignTable['u163'] = 'center';gv_vAlignTable['u244'] = 'top';document.getElementById('u92_img').tabIndex = 0;
 
 u92.style.cursor = 'pointer';
 $axure.eventManager.click('u92', function(e) {
@@ -226,27 +316,47 @@ if (true) {
 
 }
 });
-
-u127.style.cursor = 'pointer';
-$axure.eventManager.click('u127', function(e) {
-
-if (true) {
-
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('Tier.html');
-
-}
-});
-gv_vAlignTable['u169'] = 'center';gv_vAlignTable['u56'] = 'top';gv_vAlignTable['u142'] = 'center';gv_vAlignTable['u139'] = 'center';gv_vAlignTable['u5'] = 'top';gv_vAlignTable['u66'] = 'center';
-u121.style.cursor = 'pointer';
-$axure.eventManager.click('u121', function(e) {
+gv_vAlignTable['u217'] = 'top';
+u223.style.cursor = 'pointer';
+$axure.eventManager.click('u223', function(e) {
 
 if (true) {
 
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('Snake_Draft.html');
+	SetPanelState('u199', 'pd2u199','none','',500,'none','',500);
 
 }
 });
-gv_vAlignTable['u116'] = 'center';gv_vAlignTable['u9'] = 'top';gv_vAlignTable['u84'] = 'top';gv_vAlignTable['u50'] = 'top';gv_vAlignTable['u171'] = 'top';gv_vAlignTable['u97'] = 'center';document.getElementById('u63_img').tabIndex = 0;
+gv_vAlignTable['u127'] = 'center';gv_vAlignTable['u160'] = 'center';gv_vAlignTable['u169'] = 'center';gv_vAlignTable['u56'] = 'top';
+u112.style.cursor = 'pointer';
+$axure.eventManager.click('u112', function(e) {
+
+if (true) {
+
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('News.html');
+
+}
+});
+gv_vAlignTable['u227'] = 'top';
+u109.style.cursor = 'pointer';
+$axure.eventManager.click('u109', function(e) {
+
+if (true) {
+
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('About.html');
+
+}
+});
+gv_vAlignTable['u5'] = 'top';gv_vAlignTable['u66'] = 'center';
+u206.style.cursor = 'pointer';
+$axure.eventManager.click('u206', function(e) {
+
+if (true) {
+
+	SetPanelState('u199', 'pd2u199','none','',500,'none','',500);
+
+}
+});
+gv_vAlignTable['u9'] = 'top';gv_vAlignTable['u84'] = 'top';gv_vAlignTable['u50'] = 'top';gv_vAlignTable['u171'] = 'top';gv_vAlignTable['u97'] = 'center';document.getElementById('u63_img').tabIndex = 0;
 
 u63.style.cursor = 'pointer';
 $axure.eventManager.click('u63', function(e) {
@@ -257,23 +367,13 @@ if (true) {
 
 }
 });
-
-u124.style.cursor = 'pointer';
-$axure.eventManager.click('u124', function(e) {
-
-if (true) {
-
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('Pick_Em_.html');
-
-}
-});
-gv_vAlignTable['u170'] = 'top';gv_vAlignTable['u76'] = 'top';gv_vAlignTable['u190'] = 'top';
+gv_vAlignTable['u124'] = 'center';gv_vAlignTable['u130'] = 'center';gv_vAlignTable['u76'] = 'top';gv_vAlignTable['u190'] = 'top';
 u118.style.cursor = 'pointer';
 $axure.eventManager.click('u118', function(e) {
 
 if (true) {
 
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('Games.html');
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('Affiliates.html');
 
 }
 });
@@ -299,17 +399,47 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u104'] = 'center';gv_vAlignTable['u167'] = 'top';gv_vAlignTable['u91'] = 'top';gv_vAlignTable['u19'] = 'top';gv_vAlignTable['u162'] = 'center';gv_vAlignTable['u89'] = 'top';gv_vAlignTable['u68'] = 'center';gv_vAlignTable['u136'] = 'center';gv_vAlignTable['u29'] = 'top';gv_vAlignTable['u152'] = 'center';gv_vAlignTable['u175'] = 'top';gv_vAlignTable['u129'] = 'center';gv_vAlignTable['u11'] = 'top';gv_vAlignTable['u39'] = 'top';
-u111.style.cursor = 'pointer';
-$axure.eventManager.click('u111', function(e) {
+gv_vAlignTable['u104'] = 'center';gv_vAlignTable['u234'] = 'top';gv_vAlignTable['u91'] = 'top';gv_vAlignTable['u19'] = 'top';gv_vAlignTable['u194'] = 'top';
+u219.style.cursor = 'pointer';
+$axure.eventManager.click('u219', function(e) {
 
 if (true) {
 
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('Promotions.html');
+	SetPanelState('u199', 'pd0u199','none','',500,'none','',500);
 
 }
 });
-gv_vAlignTable['u49'] = 'top';gv_vAlignTable['u120'] = 'center';gv_vAlignTable['u80'] = 'top';gv_vAlignTable['u93'] = 'top';gv_vAlignTable['u193'] = 'top';gv_vAlignTable['u165'] = 'center';document.getElementById('u12_img').tabIndex = 0;
+gv_vAlignTable['u188'] = 'center';gv_vAlignTable['u140'] = 'center';gv_vAlignTable['u213'] = 'top';gv_vAlignTable['u117'] = 'center';gv_vAlignTable['u89'] = 'top';gv_vAlignTable['u68'] = 'center';gv_vAlignTable['u29'] = 'top';gv_vAlignTable['u175'] = 'top';gv_vAlignTable['u150'] = 'center';gv_vAlignTable['u183'] = 'center';gv_vAlignTable['u11'] = 'top';gv_vAlignTable['u39'] = 'top';gv_vAlignTable['u111'] = 'center';gv_vAlignTable['u153'] = 'center';
+u214.style.cursor = 'pointer';
+$axure.eventManager.click('u214', function(e) {
+
+if (true) {
+
+	SetPanelState('u199', 'pd1u199','none','',500,'none','',500);
+
+}
+});
+gv_vAlignTable['u178'] = 'center';gv_vAlignTable['u229'] = 'top';
+u204.style.cursor = 'pointer';
+$axure.eventManager.click('u204', function(e) {
+
+if (true) {
+
+	SetPanelState('u199', 'pd1u199','none','',500,'none','',500);
+
+}
+});
+gv_vAlignTable['u49'] = 'top';gv_vAlignTable['u120'] = 'center';gv_vAlignTable['u233'] = 'top';gv_vAlignTable['u215'] = 'top';gv_vAlignTable['u80'] = 'top';gv_vAlignTable['u93'] = 'top';
+u191.style.cursor = 'pointer';
+$axure.eventManager.click('u191', function(e) {
+
+if (true) {
+
+	SetPanelState('u199', 'pd0u199','none','',500,'none','',500);
+
+}
+});
+gv_vAlignTable['u193'] = 'center';document.getElementById('u12_img').tabIndex = 0;
 
 u12.style.cursor = 'pointer';
 $axure.eventManager.click('u12', function(e) {
@@ -320,7 +450,7 @@ if (true) {
 
 }
 });
-document.getElementById('u59_img').tabIndex = 0;
+gv_vAlignTable['u200'] = 'top';gv_vAlignTable['u211'] = 'center';document.getElementById('u59_img').tabIndex = 0;
 
 u59.style.cursor = 'pointer';
 $axure.eventManager.click('u59', function(e) {
@@ -331,7 +461,7 @@ if (true) {
 
 }
 });
-document.getElementById('u90_img').tabIndex = 0;
+gv_vAlignTable['u137'] = 'center';document.getElementById('u90_img').tabIndex = 0;
 
 u90.style.cursor = 'pointer';
 $axure.eventManager.click('u90', function(e) {
@@ -342,7 +472,17 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u100'] = 'center';gv_vAlignTable['u123'] = 'center';gv_vAlignTable['u13'] = 'top';gv_vAlignTable['u107'] = 'center';gv_vAlignTable['u189'] = 'center';gv_vAlignTable['u35'] = 'top';document.getElementById('u28_img').tabIndex = 0;
+gv_vAlignTable['u13'] = 'top';
+u115.style.cursor = 'pointer';
+$axure.eventManager.click('u115', function(e) {
+
+if (true) {
+
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('Promotions.html');
+
+}
+});
+gv_vAlignTable['u189'] = 'top';gv_vAlignTable['u35'] = 'top';gv_vAlignTable['u197'] = 'top';gv_vAlignTable['u218'] = 'top';gv_vAlignTable['u231'] = 'top';gv_vAlignTable['u166'] = 'center';document.getElementById('u28_img').tabIndex = 0;
 
 u28.style.cursor = 'pointer';
 $axure.eventManager.click('u28', function(e) {
@@ -353,4 +493,3 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u126'] = 'center';

@@ -1,4 +1,4 @@
-﻿for(var i = 0; i < 280; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
+﻿for(var i = 0; i < 284; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
 
 $axure.eventManager.pageLoad(
 function (e) {
@@ -26,7 +26,7 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u266'] = 'center';gv_vAlignTable['u79'] = 'top';gv_vAlignTable['u161'] = 'top';gv_vAlignTable['u17'] = 'center';gv_vAlignTable['u222'] = 'center';
+gv_vAlignTable['u266'] = 'center';gv_vAlignTable['u79'] = 'top';gv_vAlignTable['u161'] = 'top';gv_vAlignTable['u128'] = 'top';gv_vAlignTable['u17'] = 'center';gv_vAlignTable['u222'] = 'center';
 $axure.eventManager.mouseover('u135', function(e) {
 if (!IsTrueMouseOver('u135',e)) return;
 if (true) {
@@ -45,7 +45,17 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u150'] = 'top';gv_vAlignTable['u37'] = 'center';gv_vAlignTable['u238'] = 'center';gv_vAlignTable['u30'] = 'center';gv_vAlignTable['u21'] = 'center';gv_vAlignTable['u89'] = 'top';gv_vAlignTable['u230'] = 'center';gv_vAlignTable['u176'] = 'top';gv_vAlignTable['u208'] = 'center';gv_vAlignTable['u47'] = 'center';gv_vAlignTable['u184'] = 'center';document.getElementById('u72_img').tabIndex = 0;
+gv_vAlignTable['u150'] = 'top';gv_vAlignTable['u37'] = 'center';gv_vAlignTable['u238'] = 'center';gv_vAlignTable['u30'] = 'center';gv_vAlignTable['u21'] = 'center';gv_vAlignTable['u89'] = 'top';gv_vAlignTable['u230'] = 'center';
+u176.style.cursor = 'pointer';
+$axure.eventManager.click('u176', function(e) {
+
+if (true) {
+
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('Contest_Lobby.html');
+
+}
+});
+gv_vAlignTable['u208'] = 'center';gv_vAlignTable['u47'] = 'center';gv_vAlignTable['u184'] = 'center';document.getElementById('u72_img').tabIndex = 0;
 
 u72.style.cursor = 'pointer';
 $axure.eventManager.click('u72', function(e) {
@@ -78,7 +88,7 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u276'] = 'center';gv_vAlignTable['u242'] = 'center';gv_vAlignTable['u57'] = 'center';document.getElementById('u131_img').tabIndex = 0;
+gv_vAlignTable['u276'] = 'center';gv_vAlignTable['u179'] = 'top';gv_vAlignTable['u242'] = 'center';gv_vAlignTable['u57'] = 'center';document.getElementById('u131_img').tabIndex = 0;
 
 u131.style.cursor = 'pointer';
 $axure.eventManager.click('u131', function(e) {
@@ -90,6 +100,16 @@ if (true) {
 }
 });
 gv_vAlignTable['u202'] = 'center';
+u215.style.cursor = 'pointer';
+$axure.eventManager.click('u215', function(e) {
+
+if (true) {
+
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('Contest_Details.html');
+
+}
+});
+gv_vAlignTable['u210'] = 'center';gv_vAlignTable['u258'] = 'center';gv_vAlignTable['u173'] = 'top';gv_vAlignTable['u174'] = 'top';
 $axure.eventManager.mouseover('u119', function(e) {
 if (!IsTrueMouseOver('u119',e)) return;
 if (true) {
@@ -107,17 +127,7 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u210'] = 'center';gv_vAlignTable['u258'] = 'center';
-u173.style.cursor = 'pointer';
-$axure.eventManager.click('u173', function(e) {
-
-if (true) {
-
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('Create_Lineup.html');
-
-}
-});
-gv_vAlignTable['u216'] = 'center';gv_vAlignTable['u128'] = 'top';document.getElementById('u94_img').tabIndex = 0;
+gv_vAlignTable['u280'] = 'center';document.getElementById('u94_img').tabIndex = 0;
 
 u94.style.cursor = 'pointer';
 $axure.eventManager.click('u94', function(e) {
@@ -128,7 +138,17 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u99'] = 'top';gv_vAlignTable['u182'] = 'center';gv_vAlignTable['u226'] = 'center';gv_vAlignTable['u77'] = 'top';gv_vAlignTable['u144'] = 'top';gv_vAlignTable['u274'] = 'center';gv_vAlignTable['u95'] = 'top';gv_vAlignTable['u75'] = 'top';document.getElementById('u143_img').tabIndex = 0;
+gv_vAlignTable['u99'] = 'top';
+u249.style.cursor = 'pointer';
+$axure.eventManager.click('u249', function(e) {
+
+if (true) {
+
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('Edit_Lineup.html');
+
+}
+});
+gv_vAlignTable['u226'] = 'center';gv_vAlignTable['u77'] = 'top';gv_vAlignTable['u144'] = 'top';gv_vAlignTable['u274'] = 'center';gv_vAlignTable['u95'] = 'top';gv_vAlignTable['u75'] = 'top';document.getElementById('u143_img').tabIndex = 0;
 
 u143.style.cursor = 'pointer';
 $axure.eventManager.click('u143', function(e) {
@@ -139,7 +159,7 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u240'] = 'center';gv_vAlignTable['u180'] = 'center';document.getElementById('u74_img').tabIndex = 0;
+gv_vAlignTable['u240'] = 'center';gv_vAlignTable['u180'] = 'top';document.getElementById('u74_img').tabIndex = 0;
 
 u74.style.cursor = 'pointer';
 $axure.eventManager.click('u74', function(e) {
@@ -161,7 +181,7 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u163'] = 'top';gv_vAlignTable['u244'] = 'center';gv_vAlignTable['u34'] = 'center';gv_vAlignTable['u71'] = 'top';gv_vAlignTable['u198'] = 'center';document.getElementById('u98_img').tabIndex = 0;
+gv_vAlignTable['u163'] = 'top';gv_vAlignTable['u244'] = 'center';gv_vAlignTable['u157'] = 'top';gv_vAlignTable['u34'] = 'center';gv_vAlignTable['u71'] = 'top';gv_vAlignTable['u198'] = 'center';gv_vAlignTable['u246'] = 'center';document.getElementById('u98_img').tabIndex = 0;
 
 u98.style.cursor = 'pointer';
 $axure.eventManager.click('u98', function(e) {
@@ -183,27 +203,7 @@ if (true) {
 
 }
 });
-
-u245.style.cursor = 'pointer';
-$axure.eventManager.click('u245', function(e) {
-
-if (true) {
-
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('Edit_Lineup.html');
-
-}
-});
-gv_vAlignTable['u169'] = 'top';
-u279.style.cursor = 'pointer';
-$axure.eventManager.click('u279', function(e) {
-
-if (true) {
-
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('Contest_Details.html');
-
-}
-});
-gv_vAlignTable['u272'] = 'center';gv_vAlignTable['u53'] = 'center';gv_vAlignTable['u142'] = 'top';gv_vAlignTable['u40'] = 'center';gv_vAlignTable['u87'] = 'top';gv_vAlignTable['u109'] = 'top';gv_vAlignTable['u228'] = 'center';gv_vAlignTable['u66'] = 'center';document.getElementById('u116_img').tabIndex = 0;
+gv_vAlignTable['u169'] = 'center';gv_vAlignTable['u272'] = 'center';gv_vAlignTable['u53'] = 'center';gv_vAlignTable['u142'] = 'top';gv_vAlignTable['u212'] = 'center';gv_vAlignTable['u40'] = 'center';gv_vAlignTable['u87'] = 'top';gv_vAlignTable['u109'] = 'top';gv_vAlignTable['u228'] = 'center';gv_vAlignTable['u66'] = 'center';document.getElementById('u116_img').tabIndex = 0;
 
 u116.style.cursor = 'pointer';
 $axure.eventManager.click('u116', function(e) {
@@ -224,7 +224,7 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u50'] = 'center';gv_vAlignTable['u97'] = 'top';gv_vAlignTable['u63'] = 'center';gv_vAlignTable['u124'] = 'top';gv_vAlignTable['u130'] = 'top';gv_vAlignTable['u170'] = 'top';document.getElementById('u76_img').tabIndex = 0;
+gv_vAlignTable['u50'] = 'center';gv_vAlignTable['u171'] = 'top';gv_vAlignTable['u97'] = 'top';gv_vAlignTable['u63'] = 'center';gv_vAlignTable['u124'] = 'top';gv_vAlignTable['u130'] = 'top';document.getElementById('u76_img').tabIndex = 0;
 
 u76.style.cursor = 'pointer';
 $axure.eventManager.click('u76', function(e) {
@@ -235,17 +235,17 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u134'] = 'center';gv_vAlignTable['u190'] = 'center';
-u172.style.cursor = 'pointer';
-$axure.eventManager.click('u172', function(e) {
+gv_vAlignTable['u134'] = 'center';gv_vAlignTable['u190'] = 'center';gv_vAlignTable['u172'] = 'top';gv_vAlignTable['u81'] = 'top';
+u177.style.cursor = 'pointer';
+$axure.eventManager.click('u177', function(e) {
 
 if (true) {
 
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('Contest_Lobby.html');
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('Create_Lineup.html');
 
 }
 });
-gv_vAlignTable['u81'] = 'top';gv_vAlignTable['u118'] = 'top';gv_vAlignTable['u264'] = 'center';gv_vAlignTable['u60'] = 'center';gv_vAlignTable['u73'] = 'top';gv_vAlignTable['u113'] = 'top';gv_vAlignTable['u270'] = 'center';gv_vAlignTable['u250'] = 'center';document.getElementById('u147_img').tabIndex = 0;
+gv_vAlignTable['u118'] = 'top';gv_vAlignTable['u264'] = 'center';gv_vAlignTable['u60'] = 'center';gv_vAlignTable['u73'] = 'top';gv_vAlignTable['u113'] = 'top';gv_vAlignTable['u270'] = 'center';document.getElementById('u147_img').tabIndex = 0;
 
 u147.style.cursor = 'pointer';
 $axure.eventManager.click('u147', function(e) {
@@ -256,7 +256,7 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u167'] = 'top';gv_vAlignTable['u91'] = 'top';
+gv_vAlignTable['u167'] = 'center';gv_vAlignTable['u91'] = 'top';
 u19.style.cursor = 'pointer';
 $axure.eventManager.click('u19', function(e) {
 
@@ -299,7 +299,7 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u260'] = 'center';gv_vAlignTable['u152'] = 'top';gv_vAlignTable['u132'] = 'top';gv_vAlignTable['u234'] = 'center';gv_vAlignTable['u262'] = 'center';gv_vAlignTable['u175'] = 'top';gv_vAlignTable['u103'] = 'top';document.getElementById('u129_img').tabIndex = 0;
+gv_vAlignTable['u260'] = 'center';gv_vAlignTable['u152'] = 'top';gv_vAlignTable['u132'] = 'top';gv_vAlignTable['u234'] = 'center';gv_vAlignTable['u262'] = 'center';gv_vAlignTable['u103'] = 'top';document.getElementById('u129_img').tabIndex = 0;
 
 u129.style.cursor = 'pointer';
 $axure.eventManager.click('u129', function(e) {
@@ -331,7 +331,17 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u196'] = 'center';
+
+u283.style.cursor = 'pointer';
+$axure.eventManager.click('u283', function(e) {
+
+if (true) {
+
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('Contest_Details.html');
+
+}
+});
+gv_vAlignTable['u196'] = 'center';gv_vAlignTable['u282'] = 'center';
 u15.style.cursor = 'pointer';
 $axure.eventManager.click('u15', function(e) {
 
@@ -362,17 +372,7 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u200'] = 'center';
-u211.style.cursor = 'pointer';
-$axure.eventManager.click('u211', function(e) {
-
-if (true) {
-
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('Contest_Details.html');
-
-}
-});
-gv_vAlignTable['u115'] = 'top';gv_vAlignTable['u168'] = 'top';gv_vAlignTable['u157'] = 'top';document.getElementById('u158_img').tabIndex = 0;
+gv_vAlignTable['u200'] = 'center';gv_vAlignTable['u115'] = 'top';document.getElementById('u158_img').tabIndex = 0;
 
 u158.style.cursor = 'pointer';
 $axure.eventManager.click('u158', function(e) {

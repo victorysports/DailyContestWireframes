@@ -238,19 +238,29 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_League_files/u96_normal.png");
 }
 
-* html .u99_normal {
+* html .u98_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_League_files/u99_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_League_files/u98_normal.png");
 }
 
-* html .u188_image_sketch {
+* html .u100_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_League_files/u188_image_sketch.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_League_files/u100_normal.png");
 }
 
-* html .u190_image_sketch {
+* html .u103_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_League_files/u190_image_sketch.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_League_files/u103_normal.png");
+}
+
+* html .u192_image_sketch {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_League_files/u192_image_sketch.png");
+}
+
+* html .u194_image_sketch {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_League_files/u194_image_sketch.png");
 }
 
 * html .u209_normal {
@@ -3176,5 +3186,10 @@
 * html .u882_image_sketch {
     background-image: none;
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_League_files/u882_image_sketch.png");
+}
+
+* html .u883_image_sketch {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_League_files/u883_image_sketch.png");
 }
 

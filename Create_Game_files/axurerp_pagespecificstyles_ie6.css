@@ -3168,29 +3168,19 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u811_normal.png");
 }
 
-* html .u814_normal {
+* html .u813_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u814_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u813_normal.png");
 }
 
-* html .u882_image_sketch {
+* html .u815_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u882_image_sketch.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u815_normal.png");
 }
 
-* html .u883_image_sketch {
+* html .u818_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u883_image_sketch.png");
-}
-
-* html .u884_image_sketch {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u884_image_sketch.png");
-}
-
-* html .u885_image_sketch {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u885_image_sketch.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u818_normal.png");
 }
 
 * html .u886_image_sketch {
@@ -3208,23 +3198,1498 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u888_image_sketch.png");
 }
 
-* html .u889_normal {
+* html .u889_image_sketch {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u889_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u889_image_sketch.png");
 }
 
-* html .u891_normal {
+* html .u890_image_sketch {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u891_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u890_image_sketch.png");
 }
 
-* html .u893_image_sketch {
+* html .u891_image_sketch {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u893_image_sketch.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u891_image_sketch.png");
 }
 
-* html .u895_image_sketch {
+* html .u892_image_sketch {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u895_image_sketch.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u892_image_sketch.png");
+}
+
+* html .u893_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u893_normal.png");
+}
+
+* html .u895_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u895_normal.png");
+}
+
+* html .u897_image_sketch {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u897_image_sketch.png");
+}
+
+* html .u898_image_sketch {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u898_image_sketch.png");
+}
+
+* html .u927_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u42_normal.png");
+}
+
+* html .u929_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/Previous_month_calendar_u44_normal.png");
+}
+
+* html .u932_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u42_normal.png");
+}
+
+* html .u942_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/Next_calendar_u57_normal.png");
+}
+
+* html .u951_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u66_mouseOver.png");
+}
+
+* html .u951_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u66_normal.png");
+}
+
+* html .u953_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u68_mouseOver.png");
+}
+
+* html .u953_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u68_normal.png");
+}
+
+* html .u955_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u66_mouseOver.png");
+}
+
+* html .u955_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u66_normal.png");
+}
+
+* html .u957_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u66_mouseOver.png");
+}
+
+* html .u957_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u66_normal.png");
+}
+
+* html .u959_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u959_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u961_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u76_mouseOver.png");
+}
+
+* html .u961_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u76_normal.png");
+}
+
+* html .u963_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u78_mouseOver.png");
+}
+
+* html .u963_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u78_normal.png");
+}
+
+* html .u965_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u965_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u967_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u82_mouseOver.png");
+}
+
+* html .u967_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u82_normal.png");
+}
+
+* html .u969_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u969_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u971_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u971_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u973_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u973_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u975_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u76_mouseOver.png");
+}
+
+* html .u975_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u76_normal.png");
+}
+
+* html .u977_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u78_mouseOver.png");
+}
+
+* html .u977_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u78_normal.png");
+}
+
+* html .u979_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u979_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u981_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u82_mouseOver.png");
+}
+
+* html .u981_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u82_normal.png");
+}
+
+* html .u983_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u983_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u985_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u985_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u987_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u987_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u989_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u76_mouseOver.png");
+}
+
+* html .u989_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u76_normal.png");
+}
+
+* html .u991_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u78_mouseOver.png");
+}
+
+* html .u991_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u78_normal.png");
+}
+
+* html .u993_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u993_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u995_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u82_mouseOver.png");
+}
+
+* html .u995_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u82_normal.png");
+}
+
+* html .u997_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u997_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u999_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u999_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1001_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1001_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1003_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u76_mouseOver.png");
+}
+
+* html .u1003_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u76_normal.png");
+}
+
+* html .u1005_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u78_mouseOver.png");
+}
+
+* html .u1005_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u78_normal.png");
+}
+
+* html .u1007_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1007_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1009_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u82_mouseOver.png");
+}
+
+* html .u1009_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u82_normal.png");
+}
+
+* html .u1011_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1011_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1013_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1013_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1015_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1015_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1017_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u76_mouseOver.png");
+}
+
+* html .u1017_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u76_normal.png");
+}
+
+* html .u1019_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u78_mouseOver.png");
+}
+
+* html .u1019_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u78_normal.png");
+}
+
+* html .u1021_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u66_mouseOver.png");
+}
+
+* html .u1021_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u66_normal.png");
+}
+
+* html .u1023_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u68_mouseOver.png");
+}
+
+* html .u1023_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u68_normal.png");
+}
+
+* html .u1025_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u66_mouseOver.png");
+}
+
+* html .u1025_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u66_normal.png");
+}
+
+* html .u1027_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u66_mouseOver.png");
+}
+
+* html .u1027_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u66_normal.png");
+}
+
+* html .u1029_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1029_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1031_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u76_mouseOver.png");
+}
+
+* html .u1031_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u76_normal.png");
+}
+
+* html .u1033_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u78_mouseOver.png");
+}
+
+* html .u1033_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u78_normal.png");
+}
+
+* html .u1035_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1035_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1037_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u82_mouseOver.png");
+}
+
+* html .u1037_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u82_normal.png");
+}
+
+* html .u1039_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1039_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1041_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1041_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1043_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1043_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1045_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u76_mouseOver.png");
+}
+
+* html .u1045_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u76_normal.png");
+}
+
+* html .u1047_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u78_mouseOver.png");
+}
+
+* html .u1047_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u78_normal.png");
+}
+
+* html .u1049_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1049_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1051_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u82_mouseOver.png");
+}
+
+* html .u1051_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u82_normal.png");
+}
+
+* html .u1053_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1053_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1055_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1055_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1057_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1057_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1059_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u76_mouseOver.png");
+}
+
+* html .u1059_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u76_normal.png");
+}
+
+* html .u1061_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u78_mouseOver.png");
+}
+
+* html .u1061_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u78_normal.png");
+}
+
+* html .u1063_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1063_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1065_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u82_mouseOver.png");
+}
+
+* html .u1065_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u82_normal.png");
+}
+
+* html .u1067_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1067_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1069_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1069_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1071_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1071_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1073_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u76_mouseOver.png");
+}
+
+* html .u1073_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u76_normal.png");
+}
+
+* html .u1075_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u78_mouseOver.png");
+}
+
+* html .u1075_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u78_normal.png");
+}
+
+* html .u1077_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1077_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1079_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u82_mouseOver.png");
+}
+
+* html .u1079_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u82_normal.png");
+}
+
+* html .u1081_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1081_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1083_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1083_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1085_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1085_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1087_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u76_mouseOver.png");
+}
+
+* html .u1087_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u76_normal.png");
+}
+
+* html .u1089_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u78_mouseOver.png");
+}
+
+* html .u1089_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u78_normal.png");
+}
+
+* html .u1091_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u42_normal.png");
+}
+
+* html .u1093_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/Next_calendar_u57_normal.png");
+}
+
+* html .u1096_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u66_mouseOver.png");
+}
+
+* html .u1096_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u66_normal.png");
+}
+
+* html .u1098_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u82_mouseOver.png");
+}
+
+* html .u1098_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u82_normal.png");
+}
+
+* html .u1100_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1100_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1102_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1102_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1104_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1104_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1106_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u76_mouseOver.png");
+}
+
+* html .u1106_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u76_normal.png");
+}
+
+* html .u1108_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u78_mouseOver.png");
+}
+
+* html .u1108_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u78_normal.png");
+}
+
+* html .u1110_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1110_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1112_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u82_mouseOver.png");
+}
+
+* html .u1112_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u82_normal.png");
+}
+
+* html .u1114_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1114_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1116_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1116_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1118_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1118_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1120_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u76_mouseOver.png");
+}
+
+* html .u1120_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u76_normal.png");
+}
+
+* html .u1122_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u78_mouseOver.png");
+}
+
+* html .u1122_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u78_normal.png");
+}
+
+* html .u1124_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1124_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1126_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u82_mouseOver.png");
+}
+
+* html .u1126_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u82_normal.png");
+}
+
+* html .u1128_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1128_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1130_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1130_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1132_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1132_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1134_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u76_mouseOver.png");
+}
+
+* html .u1134_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u76_normal.png");
+}
+
+* html .u1136_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u78_mouseOver.png");
+}
+
+* html .u1136_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u78_normal.png");
+}
+
+* html .u1138_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1138_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1140_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u82_mouseOver.png");
+}
+
+* html .u1140_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u82_normal.png");
+}
+
+* html .u1142_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1142_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1144_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1144_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1146_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1146_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1148_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u76_mouseOver.png");
+}
+
+* html .u1148_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u76_normal.png");
+}
+
+* html .u1150_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u78_mouseOver.png");
+}
+
+* html .u1150_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u78_normal.png");
+}
+
+* html .u1152_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1152_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1154_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u82_mouseOver.png");
+}
+
+* html .u1154_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u82_normal.png");
+}
+
+* html .u1156_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1156_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1158_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1158_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1160_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u66_mouseOver.png");
+}
+
+* html .u1160_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u66_normal.png");
+}
+
+* html .u1162_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u68_mouseOver.png");
+}
+
+* html .u1162_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u68_normal.png");
+}
+
+* html .u1171_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u66_mouseOver.png");
+}
+
+* html .u1171_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u66_normal.png");
+}
+
+* html .u1173_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u42_normal.png");
+}
+
+* html .u1183_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/Previous_month_calendar_u44_normal.png");
+}
+
+* html .u1185_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u66_mouseOver.png");
+}
+
+* html .u1185_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u66_normal.png");
+}
+
+* html .u1187_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u68_mouseOver.png");
+}
+
+* html .u1187_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u68_normal.png");
+}
+
+* html .u1189_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u66_mouseOver.png");
+}
+
+* html .u1189_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u66_normal.png");
+}
+
+* html .u1191_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u66_mouseOver.png");
+}
+
+* html .u1191_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u66_normal.png");
+}
+
+* html .u1193_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1193_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1195_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u76_mouseOver.png");
+}
+
+* html .u1195_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u76_normal.png");
+}
+
+* html .u1197_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u78_mouseOver.png");
+}
+
+* html .u1197_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u78_normal.png");
+}
+
+* html .u1199_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1199_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1201_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u82_mouseOver.png");
+}
+
+* html .u1201_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u82_normal.png");
+}
+
+* html .u1203_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1203_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1205_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1205_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1207_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1207_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1209_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u76_mouseOver.png");
+}
+
+* html .u1209_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u76_normal.png");
+}
+
+* html .u1211_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u78_mouseOver.png");
+}
+
+* html .u1211_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u78_normal.png");
+}
+
+* html .u1213_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1213_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1215_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u82_mouseOver.png");
+}
+
+* html .u1215_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u82_normal.png");
+}
+
+* html .u1217_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1217_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1219_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1219_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1221_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1221_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1223_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u76_mouseOver.png");
+}
+
+* html .u1223_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u76_normal.png");
+}
+
+* html .u1225_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u78_mouseOver.png");
+}
+
+* html .u1225_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u78_normal.png");
+}
+
+* html .u1227_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1227_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1229_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u82_mouseOver.png");
+}
+
+* html .u1229_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u82_normal.png");
+}
+
+* html .u1231_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1231_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1233_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1233_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1235_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1235_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1237_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u76_mouseOver.png");
+}
+
+* html .u1237_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u76_normal.png");
+}
+
+* html .u1239_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u78_mouseOver.png");
+}
+
+* html .u1239_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u78_normal.png");
+}
+
+* html .u1241_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1241_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1243_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u82_mouseOver.png");
+}
+
+* html .u1243_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u82_normal.png");
+}
+
+* html .u1245_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1245_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1247_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1247_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1249_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_mouseOver.png");
+}
+
+* html .u1249_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u74_normal.png");
+}
+
+* html .u1251_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u76_mouseOver.png");
+}
+
+* html .u1251_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u76_normal.png");
+}
+
+* html .u1253_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u78_mouseOver.png");
+}
+
+* html .u1253_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/u78_normal.png");
+}
+
+* html .u1255_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/Calendar_icon_u370_normal.png");
+}
+
+* html .u1257_image_sketch {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/Month_and_year_u1257_image_sketch.png");
+}
+
+* html .u1258_image_sketch {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Create_Game_files/Day_u1258_image_sketch.png");
 }
 

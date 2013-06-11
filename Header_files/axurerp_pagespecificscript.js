@@ -1,4 +1,4 @@
-﻿for(var i = 0; i < 99; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
+﻿for(var i = 0; i < 103; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
 
 $axure.eventManager.pageLoad(
 function (e) {
@@ -33,18 +33,7 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u68'] = 'center';gv_vAlignTable['u76'] = 'top';gv_vAlignTable['u27'] = 'top';gv_vAlignTable['u93'] = 'top';gv_vAlignTable['u13'] = 'top';document.getElementById('u8_img').tabIndex = 0;
-
-u8.style.cursor = 'pointer';
-$axure.eventManager.click('u8', function(e) {
-
-if (true) {
-
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('Promotions.html');
-
-}
-});
-gv_vAlignTable['u23'] = 'top';gv_vAlignTable['u62'] = 'top';gv_vAlignTable['u7'] = 'top';gv_vAlignTable['u97'] = 'center';gv_vAlignTable['u3'] = 'top';document.getElementById('u30_img').tabIndex = 0;
+gv_vAlignTable['u68'] = 'center';gv_vAlignTable['u76'] = 'top';gv_vAlignTable['u27'] = 'top';gv_vAlignTable['u93'] = 'top';gv_vAlignTable['u23'] = 'top';gv_vAlignTable['u62'] = 'top';gv_vAlignTable['u7'] = 'top';gv_vAlignTable['u97'] = 'center';gv_vAlignTable['u3'] = 'top';document.getElementById('u30_img').tabIndex = 0;
 
 u30.style.cursor = 'pointer';
 $axure.eventManager.click('u30', function(e) {
@@ -110,7 +99,7 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u52'] = 'center';gv_vAlignTable['u17'] = 'top';document.getElementById('u6_img').tabIndex = 0;
+gv_vAlignTable['u13'] = 'top';gv_vAlignTable['u52'] = 'center';gv_vAlignTable['u17'] = 'top';gv_vAlignTable['u99'] = 'center';document.getElementById('u6_img').tabIndex = 0;
 
 u6.style.cursor = 'pointer';
 $axure.eventManager.click('u6', function(e) {
@@ -143,7 +132,7 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u50'] = 'top';gv_vAlignTable['u39'] = 'top';gv_vAlignTable['u84'] = 'top';gv_vAlignTable['u31'] = 'top';document.getElementById('u61_img').tabIndex = 0;
+gv_vAlignTable['u50'] = 'top';gv_vAlignTable['u101'] = 'center';gv_vAlignTable['u39'] = 'top';gv_vAlignTable['u84'] = 'top';gv_vAlignTable['u31'] = 'top';document.getElementById('u61_img').tabIndex = 0;
 
 u61.style.cursor = 'pointer';
 $axure.eventManager.click('u61', function(e) {
@@ -151,6 +140,17 @@ $axure.eventManager.click('u61', function(e) {
 if (true) {
 
 	self.location.href=$axure.globalVariableProvider.getLinkUrl('Withdrawl.html');
+
+}
+});
+document.getElementById('u8_img').tabIndex = 0;
+
+u8.style.cursor = 'pointer';
+$axure.eventManager.click('u8', function(e) {
+
+if (true) {
+
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('Promotions.html');
 
 }
 });

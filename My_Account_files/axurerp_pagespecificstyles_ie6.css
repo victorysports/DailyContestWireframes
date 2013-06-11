@@ -238,33 +238,43 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="My_Account_files/u96_normal.png");
 }
 
-* html .u99_normal {
+* html .u98_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="My_Account_files/u99_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="My_Account_files/u98_normal.png");
 }
 
-* html .u173_image_sketch {
+* html .u100_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="My_Account_files/u173_image_sketch.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="My_Account_files/u100_normal.png");
 }
 
-* html .u179_image_sketch {
+* html .u103_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="My_Account_files/u179_image_sketch.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="My_Account_files/u103_normal.png");
 }
 
-* html .u180_image_sketch {
+* html .u177_image_sketch {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="My_Account_files/u180_image_sketch.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="My_Account_files/u177_image_sketch.png");
 }
 
-* html .u185_image_sketch {
+* html .u183_image_sketch {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="My_Account_files/u185_image_sketch.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="My_Account_files/u183_image_sketch.png");
 }
 
-* html .u190_image_sketch {
+* html .u184_image_sketch {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="My_Account_files/u190_image_sketch.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="My_Account_files/u184_image_sketch.png");
+}
+
+* html .u189_image_sketch {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="My_Account_files/u189_image_sketch.png");
+}
+
+* html .u194_image_sketch {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="My_Account_files/u194_image_sketch.png");
 }
 

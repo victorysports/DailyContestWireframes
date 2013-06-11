@@ -238,3 +238,13 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Header_files/u96_normal.png");
 }
 
+* html .u98_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Header_files/u98_normal.png");
+}
+
+* html .u100_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Header_files/u100_normal.png");
+}
+

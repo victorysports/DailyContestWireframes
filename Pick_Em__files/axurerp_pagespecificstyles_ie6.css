@@ -238,8 +238,18 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Pick_Em__files/u96_normal.png");
 }
 
-* html .u99_normal {
+* html .u98_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Pick_Em__files/u99_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Pick_Em__files/u98_normal.png");
+}
+
+* html .u100_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Pick_Em__files/u100_normal.png");
+}
+
+* html .u103_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Pick_Em__files/u103_normal.png");
 }
 
